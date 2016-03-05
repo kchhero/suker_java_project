@@ -1,0 +1,692 @@
+05-17 00:05:32.185 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:32.185 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:32.185 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:32.185 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:32.185 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:32.185 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:32.185 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:32.185 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:05:33.286 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:05:33.286 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:05:33.286 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:05:33.286 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 2, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:05:33.286 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:05:33.286 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:05:33.286 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: On --> On, Voice Tech: 3GPP --> 3GPP
+05-17 00:05:33.286 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:05:33.286 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:33.286 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:33.286 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:05:33.286 D/RILC    (  146): GW signal is available.
+05-17 00:05:33.286 D/RILC    (  146): Signal strength: gwl_rssi: 17, gw_bit_error: 255, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:05:33.286 D/RILC    (  146):  
+05-17 00:05:33.286 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:05:33.286 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:34.537 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:34.537 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:34.537 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:34.537 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:34.537 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:34.537 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:34.537 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:34.537 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:36.890 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:36.890 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:36.890 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:36.890 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:36.890 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:36.890 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:36.890 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:36.890 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:45.138 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:45.138 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:45.138 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:45.138 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:45.138 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:45.138 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:45.138 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:45.138 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:47.480 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:47.480 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:47.490 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:47.490 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:47.490 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:47.490 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:47.490 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:47.490 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:05:51.294 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:05:51.294 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:05:51.294 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:05:51.294 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 2, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:05:51.294 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:05:51.294 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:05:51.294 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: On --> On, Voice Tech: 3GPP --> 3GPP
+05-17 00:05:51.294 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:05:51.294 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:51.294 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:51.294 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:05:51.294 D/RILC    (  146): GW signal is available.
+05-17 00:05:51.294 D/RILC    (  146): Signal strength: gwl_rssi: 13, gw_bit_error: 255, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:05:51.294 D/RILC    (  146):  
+05-17 00:05:51.294 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:05:51.294 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:51.324 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:05:54.297 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:05:54.297 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:05:54.297 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:05:54.297 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 2, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:05:54.297 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:05:54.297 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:05:54.297 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: On --> On, Voice Tech: 3GPP --> 3GPP
+05-17 00:05:54.297 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:05:54.297 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:54.297 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:05:54.297 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:05:54.297 D/RILC    (  146): GW signal is available.
+05-17 00:05:54.297 D/RILC    (  146): Signal strength: gwl_rssi: 9, gw_bit_error: 255, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:05:54.297 D/RILC    (  146):  
+05-17 00:05:54.297 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:05:54.347 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:05:56.899 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:56.899 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:05:56.899 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:05:56.899 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:05:56.899 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:05:56.899 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:05:56.899 D/RILC    (  146): Saved GSM NMR info
+05-17 00:05:56.899 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:06:00.293 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:06:00.293 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:06:00.293 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:06:00.293 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 2, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:06:00.293 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:06:00.293 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:06:00.293 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: On --> On, Voice Tech: 3GPP --> 3GPP
+05-17 00:06:00.293 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:06:00.293 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:00.293 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:00.293 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:06:00.293 D/RILC    (  146): GW signal is available.
+05-17 00:06:00.293 D/RILC    (  146): Signal strength: gwl_rssi: 12, gw_bit_error: 255, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:06:00.293 D/RILC    (  146):  
+05-17 00:06:00.293 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:06:00.303 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:06:00.333 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:06.318 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:06.318 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:06.318 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:06.318 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:06.318 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:06.318 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:06.318 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:06.318 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:12.204 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:12.204 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:12.204 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:12.204 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:12.204 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:12.204 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:12.204 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:12.204 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:21.623 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:21.623 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:21.623 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:21.623 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:21.623 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:21.623 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:21.623 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:21.623 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:06:24.296 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:06:24.296 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:06:24.296 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:06:24.296 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 2, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:06:24.296 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:06:24.296 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:06:24.296 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: On --> On, Voice Tech: 3GPP --> 3GPP
+05-17 00:06:24.296 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:06:24.296 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:24.296 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:06:24.296 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:06:24.296 D/RILC    (  146): GW signal is available.
+05-17 00:06:24.296 D/RILC    (  146): Signal strength: gwl_rssi: 15, gw_bit_error: 255, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:06:24.296 D/RILC    (  146):  
+05-17 00:06:24.296 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:06:24.306 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:06:24.336 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:25.147 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:25.147 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:25.147 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:25.147 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:25.147 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:25.147 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:25.147 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:25.147 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:34.566 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:34.566 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:34.566 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:34.566 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:34.566 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:34.566 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:34.566 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:34.576 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:36.918 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:36.918 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:36.918 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:36.918 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:36.918 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:36.918 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:36.918 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:36.918 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:39.271 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:39.271 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:39.271 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:39.271 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:39.271 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:39.271 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:39.271 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:39.271 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:42.804 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:42.804 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:42.804 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:42.804 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:42.804 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:42.804 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:42.804 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:42.804 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:45.166 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:45.166 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:45.166 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:45.166 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:45.166 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:45.166 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:45.166 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:45.166 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:53.404 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:53.404 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:53.404 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:53.404 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:53.404 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:53.404 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:53.404 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:53.404 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:06:56.928 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:56.928 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:06:56.928 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:06:56.928 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:06:56.928 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:06:56.928 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:06:56.928 D/RILC    (  146): Saved GSM NMR info
+05-17 00:06:56.928 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:07.518 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:07.518 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:07:07.518 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:07.518 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:07.518 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:07:07.518 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:07:07.518 D/RILC    (  146): Saved GSM NMR info
+05-17 00:07:07.518 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:09.870 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:09.870 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:07:09.870 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:09.870 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:09.870 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:07:09.870 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:07:09.870 D/RILC    (  146): Saved GSM NMR info
+05-17 00:07:09.870 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:13.404 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:13.404 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:07:13.404 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:13.404 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:13.404 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:07:13.414 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:07:13.414 D/RILC    (  146): Saved GSM NMR info
+05-17 00:07:13.414 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:15.996 V/PHONE   (  296): <!>com.android.internal.telephony.PhoneProxy 277<!> [PhoneProxy] setPowerStateToDesired : mDesiredPowerState = false, getRadioState() = RADIO_ON
+05-17 00:07:16.077 V/PHONE   (  296): <!>com.android.internal.telephony.PhoneProxy 277<!> [PhoneProxy] EVENT_SET_RADIO_POWER : newPowerState = false
+05-17 00:07:16.077 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0310]> RADIO_POWER
+05-17 00:07:16.087 D/RILC    (  146): UI --- RIL_REQUEST_RADIO_POWER (23) ---> RIL [RID 0, token id 310, data len 4]
+05-17 00:07:16.087 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_RADIO_POWER, supported state.
+05-17 00:07:16.087 D/RILC    (  146): RID 0 ph srv (null)(3): modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:16.087 D/RILC    (  146): RID 0 Request Radio LPM, APM_SIM_NOT_PWDN=0
+05-17 00:07:16.087 D/RILC    (  146): MID 0 curr oprt_mode 5 exp oprt_mode 6
+05-17 00:07:16.087 D/RILC    (  146): [RID 0] ReqList entries :
+05-17 00:07:16.087 D/RILC    (  146):     RIL_REQUEST_RADIO_POWER (23), token id 310
+05-17 00:07:16.087 D/RILC    (  146): RID 0 MID 0 Received CM_PH_COMMAND_CALLBACK : Req ID 140
+05-17 00:07:16.087 D/RILC    (  146): RID 0 MID 0 Queued event CM_COMMAND_CALLBACK (16 bytes)
+05-17 00:07:16.087 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:16.087 D/RILC    (  146): RID 0 MID 0 De-queued event CM_COMMAND_CALLBACK (65537)
+05-17 00:07:16.087 D/RILC    (  146): RIL <--- CM_COMMAND_CALLBACK(65537), RID 0, MID 0 --- AMSS
+05-17 00:07:16.087 D/RILC    (  146): LG_SYS: Accepted CM_COMMAND_CALLBACK, supported state.
+05-17 00:07:16.087 D/RILC    (  146): Change the state of ReqList entry to AWAITING_MORE_AMSS_EVENTS state : RIL_REQUEST_RADIO_POWER (23), Token ID 310, pending CM_PH_EVENT_OPRT_MODE (69632)
+05-17 00:07:16.087 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:16.877 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:16.877 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:07:16.877 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:16.877 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:07:16.877 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 00:07:16.877 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:07:16.877 D/RILC    (  146): Saved GSM NMR info
+05-17 00:07:16.877 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:17.728 D/RILC    (  146): RID 0 MID 0 Received phonesvc event : CM_PH_EVENT_OPRT_MODE (69632)
+05-17 00:07:17.728 D/RILC    (  146): RID 0 MID 0 Queued event CM_PH_EVENT_OPRT_MODE (6744 bytes)
+05-17 00:07:17.728 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:17.728 D/RILC    (  146): RID 0 MID 0 De-queued event CM_PH_EVENT_OPRT_MODE (69632)
+05-17 00:07:17.728 D/RILC    (  146): RIL <--- CM_PH_EVENT_OPRT_MODE(69632), RID 0, MID 0 --- AMSS
+05-17 00:07:17.728 D/RILC    (  146): LG_SYS: Accepted CM_PH_EVENT_OPRT_MODE, supported state.
+05-17 00:07:17.728 D/RILC    (  146): [RID 0] RIL_REQUEST_RADIO_POWER(23) token id 310, MID 0, State QCRIL_REQ_COMPLETED_SUCCESS(8)
+05-17 00:07:17.728 D/RILC    (  146): [RID 0] Complete all AMSS events, ReqList entry : RIL_REQUEST_RADIO_POWER(23), token id 310, result 0
+05-17 00:07:17.728 D/RILC    (  146): Reply to RIL --> Radio off
+05-17 00:07:17.728 D/RILC    (  146): [RID 0] ReqList entries : Empty 
+05-17 00:07:17.728 D/RILC    (  146): UI <--- RIL_REQUEST_RADIO_POWER (23) Complete --- RIL [RID 0, Token 310, Success, Len 0 ]
+05-17 00:07:17.728 D/RILC    (  146): RID 0 MID: 0, Prev Oprt mode: 5, Oprt mode: 6
+05-17 00:07:17.728 D/RILC    (  146): [CM_PH_EVENT_OPRT_MODE(69632)] Modem: On --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 00:07:17.728 D/RILC    (  146): [CM_PH_EVENT_OPRT_MODE(69632)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:07:17.728 D/RILC    (  146): RID 0 [CM_PH_EVENT_OPRT_MODE(69632)] RadioState Radio On --> Radio Off
+05-17 00:07:17.728 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_RADIO_STATE_CHANGED (1000) --- RIL [RID 0, Len 0, (null)]
+05-17 00:07:17.728 D/RILC    (  146): RID 0 currentState() -> Radio Off(0)
+05-17 00:07:17.728 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:17.728 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0310]< RADIO_POWER 
+05-17 00:07:17.738 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_RADIO_STATE_CHANGED RADIO_OFF
+05-17 00:07:17.748 D/RILB    (  296): <!>com.android.internal.telephony.BaseCommands 681<!> Notifying: radio off or not available
+05-17 00:07:17.788 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 00:07:17.788 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 00:07:17.788 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Comparing hplmn, 45000 with registered plmn null
+05-17 00:07:17.788 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] [EONS] getEons() : Comparing hplmn, 45000 with registered plmn null
+05-17 00:07:17.898 V/PHONE   (  296): <!>com.android.internal.telephony.PhoneProxy 277<!> [PhoneProxy] EVENT_RADIO_STATE_CHANGED : newState = RADIO_OFF
+05-17 00:07:17.898 V/PHONE   (  296): <!>com.android.internal.telephony.PhoneProxy 277<!> [PhoneProxy] setPowerStateToDesired : mDesiredPowerState = false, getRadioState() = RADIO_OFF
+05-17 00:07:17.938 D/GSM     (  296): <!>com.android.internal.telephony.gsm.SIMRecords 343<!> Disposing SIMRecords Handler{405b9468}
+05-17 00:07:18.098 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0311]> REQUEST_GET_NEIGHBORING_CELL_IDS
+05-17 00:07:18.139 D/RILC    (  146): UI --- RIL_REQUEST_GET_NEIGHBORING_CELL_IDS (75) ---> RIL [RID 0, token id 311, data len 0]
+05-17 00:07:18.139 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_GET_NEIGHBORING_CELL_IDS, supported state.
+05-17 00:07:18.139 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:07:18.139 D/RILC    (  146): srv_status 0, sys_mode 3, nmr_num_of_items 2, monitored_num_of_items 0
+05-17 00:07:18.139 D/RILC    (  146): neighbor cell info unavailable
+05-17 00:07:18.139 D/RILC    (  146): UI <--- RIL_REQUEST_GET_NEIGHBORING_CELL_IDS (75) Complete --- RIL [RID 0, Token 311, Success, Len 0 ]
+05-17 00:07:18.179 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0311]< REQUEST_GET_NEIGHBORING_CELL_IDS  
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 00:07:18.249 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 00:07:18.249 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 00:07:18.249 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 00:07:18.249 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 3, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:07:18.249 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:07:18.249 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:07:18.249 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 00:07:18.249 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:07:18.249 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.249 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.249 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on GSM]
+05-17 00:07:18.249 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on GSM]
+05-17 00:07:18.249 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 00:07:18.249 D/RILC    (  146): Signal strength: gwl_rssi: 99, gw_bit_error: 99, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 00:07:18.249 D/RILC    (  146):  
+05-17 00:07:18.249 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 00:07:18.249 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:18.259 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 00:07:18.259 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_SRV_CHANGED (73728)
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_SRV_CHANGED (3808 bytes)
+05-17 00:07:18.259 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_SRV_CHANGED (73728)
+05-17 00:07:18.259 D/RILC    (  146): RIL <--- CM_SS_EVENT_SRV_CHANGED(73728), RID 0, MID 0 --- AMSS
+05-17 00:07:18.259 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_SRV_CHANGED, supported state.
+05-17 00:07:18.259 D/RILC    (  146): RID 0 Save NITZ info
+05-17 00:07:18.259 D/RILC    (  146): [BRIGHTHY] Enter qcril_cm_srvsys_event_srv_changed
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 00:07:18.259 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 00:07:18.259 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 00:07:18.259 D/RILC    (  146): [CM_SS_EVENT_SRV_CHANGED(73728)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 00:07:18.259 D/RILC    (  146): [CM_SS_EVENT_SRV_CHANGED(73728)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 00:07:18.259 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.259 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 00:07:18.259 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on No service]
+05-17 00:07:18.259 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on No service]
+05-17 00:07:18.259 D/RILC    (  146): changed_fields = -2139924344, ut & tz avail = 25728, tz avail =268435456, dst avail =1
+05-17 00:07:18.259 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 00:07:18.259 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 00:07:18.259 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 00:07:18.289 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home Testcard null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 00:07:18.289 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 00:07:18.289 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 00:07:18.369 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 00:07:18.369 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 00:07:18.369 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 00:17:23.649 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0312]> SCREEN_STATE: false
+05-17 00:17:23.669 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 312, data len 4]
+05-17 00:17:23.669 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 00:17:23.669 D/RILC    (  146): De-registering the RSSI and HDR RSSI events on screen-off request
+05-17 00:17:23.679 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:17:23.679 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 00:17:23.679 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 00:17:23.679 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 00:17:23.679 D/RILC    (  146): Reply to RIL --> Screen off
+05-17 00:17:23.679 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 312, Success, Len 0 Off]
+05-17 00:17:23.679 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0312]< SCREEN_STATE 
+05-17 00:17:23.679 D/RILC    (  146): RIL <=== CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 === AMSS
+05-17 00:17:23.679 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 00:17:23.679 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:33:46.419 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0313]> SCREEN_STATE: true
+05-17 14:33:46.429 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 313, data len 4]
+05-17 14:33:46.429 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 14:33:46.429 D/RILC    (  146): Registering the RSSI event and HDR RSSI event on screen-on request
+05-17 14:33:46.429 D/RILC    (  146): requesting CM for the latest system information
+05-17 14:33:46.429 D/RILC    (  146): Reply to RIL --> Screen on
+05-17 14:33:46.429 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 313, Success, Len 0 On]
+05-17 14:33:46.439 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0313]< SCREEN_STATE 
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 14:33:46.439 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 14:33:46.439 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 14:33:46.439 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 14:33:46.439 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 14:33:46.439 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 14:33:46.439 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 14:33:46.439 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 14:33:46.439 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 14:33:46.439 D/RILC    (  146): Signal strength: gwl_rssi: 99, gw_bit_error: 99, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 14:33:46.439 D/RILC    (  146):  
+05-17 14:33:46.439 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 14:33:46.439 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_INFO (73730)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_INFO (3808 bytes)
+05-17 14:33:46.439 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_INFO (73730)
+05-17 14:33:46.439 D/RILC    (  146): RIL <--- CM_SS_EVENT_INFO(73730), RID 0, MID 0 --- AMSS
+05-17 14:33:46.439 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_INFO, supported state.
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 14:33:46.439 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 14:33:46.439 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 14:33:46.439 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 14:33:46.439 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 14:33:46.439 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:33:46.439 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on No service]
+05-17 14:33:46.439 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on No service]
+05-17 14:33:46.439 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:33:46.439 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 14:33:46.439 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 14:33:46.449 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:33:46.449 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 14:33:46.449 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:33:46.449 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:33:46.449 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 14:33:46.449 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 14:33:46.449 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:33:46.479 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 14:33:46.479 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 14:33:46.479 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 14:33:51.774 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0314]> SCREEN_STATE: false
+05-17 14:33:51.804 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 314, data len 4]
+05-17 14:33:51.804 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 14:33:51.804 D/RILC    (  146): De-registering the RSSI and HDR RSSI events on screen-off request
+05-17 14:33:51.814 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:33:51.814 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 14:33:51.814 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:33:51.814 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:33:51.824 D/RILC    (  146): Reply to RIL --> Screen off
+05-17 14:33:51.824 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 314, Success, Len 0 Off]
+05-17 14:33:51.824 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0314]< SCREEN_STATE 
+05-17 14:33:51.824 D/RILC    (  146): RIL <=== CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 === AMSS
+05-17 14:33:51.824 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 14:33:51.824 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:42:17.718 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0315]> SCREEN_STATE: true
+05-17 14:42:17.728 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 315, data len 4]
+05-17 14:42:17.728 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 14:42:17.728 D/RILC    (  146): Registering the RSSI event and HDR RSSI event on screen-on request
+05-17 14:42:17.728 D/RILC    (  146): requesting CM for the latest system information
+05-17 14:42:17.738 D/RILC    (  146): Reply to RIL --> Screen on
+05-17 14:42:17.738 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 315, Success, Len 0 On]
+05-17 14:42:17.738 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0315]< SCREEN_STATE 
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 14:42:17.738 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 14:42:17.738 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 14:42:17.738 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 14:42:17.738 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 14:42:17.738 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 14:42:17.738 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 14:42:17.738 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 14:42:17.738 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 14:42:17.738 D/RILC    (  146): Signal strength: gwl_rssi: 99, gw_bit_error: 99, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 14:42:17.738 D/RILC    (  146):  
+05-17 14:42:17.738 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 14:42:17.738 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_INFO (73730)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_INFO (3808 bytes)
+05-17 14:42:17.738 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_INFO (73730)
+05-17 14:42:17.738 D/RILC    (  146): RIL <--- CM_SS_EVENT_INFO(73730), RID 0, MID 0 --- AMSS
+05-17 14:42:17.738 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_INFO, supported state.
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 14:42:17.738 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 14:42:17.738 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 14:42:17.738 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 14:42:17.738 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 14:42:17.738 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 14:42:17.738 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on No service]
+05-17 14:42:17.738 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on No service]
+05-17 14:42:17.738 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:42:17.748 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 14:42:17.748 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 14:42:17.748 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:42:17.748 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 14:42:17.748 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:42:17.748 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:42:17.748 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 14:42:17.748 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 14:42:17.748 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 14:42:17.768 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 14:42:17.768 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 14:42:17.768 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 14:52:36.101 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0316]> SCREEN_STATE: false
+05-17 14:52:36.111 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 316, data len 4]
+05-17 14:52:36.111 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 14:52:36.111 D/RILC    (  146): De-registering the RSSI and HDR RSSI events on screen-off request
+05-17 14:52:36.111 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:52:36.111 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 14:52:36.111 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 14:52:36.121 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 14:52:36.121 D/RILC    (  146): Reply to RIL --> Screen off
+05-17 14:52:36.121 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 316, Success, Len 0 Off]
+05-17 14:52:36.121 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0316]< SCREEN_STATE 
+05-17 14:52:36.121 D/RILC    (  146): RIL <=== CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 === AMSS
+05-17 14:52:36.121 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 14:52:36.121 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:33.262 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0317]> SCREEN_STATE: true
+05-17 16:39:33.272 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 317, data len 4]
+05-17 16:39:33.272 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 16:39:33.272 D/RILC    (  146): Registering the RSSI event and HDR RSSI event on screen-on request
+05-17 16:39:33.272 D/RILC    (  146): requesting CM for the latest system information
+05-17 16:39:33.282 D/RILC    (  146): Reply to RIL --> Screen on
+05-17 16:39:33.282 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 317, Success, Len 0 On]
+05-17 16:39:33.282 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0317]< SCREEN_STATE 
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 16:39:33.282 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 16:39:33.282 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 16:39:33.282 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 16:39:33.282 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 16:39:33.282 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 16:39:33.282 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 16:39:33.282 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 16:39:33.282 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 16:39:33.282 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.282 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.282 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 16:39:33.282 D/RILC    (  146): Signal strength: gwl_rssi: 99, gw_bit_error: 99, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 16:39:33.282 D/RILC    (  146):  
+05-17 16:39:33.282 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 16:39:33.282 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_INFO (73730)
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_INFO (3808 bytes)
+05-17 16:39:33.292 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_INFO (73730)
+05-17 16:39:33.292 D/RILC    (  146): RIL <--- CM_SS_EVENT_INFO(73730), RID 0, MID 0 --- AMSS
+05-17 16:39:33.292 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_INFO, supported state.
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 16:39:33.292 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 16:39:33.292 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 16:39:33.292 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 16:39:33.292 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.292 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:33.292 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on No service]
+05-17 16:39:33.292 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on No service]
+05-17 16:39:33.292 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 16:39:33.292 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:33.292 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:33.292 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 16:39:33.292 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 16:39:33.292 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:33.292 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 16:39:33.292 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 16:39:33.322 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 16:39:33.322 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 16:39:33.322 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 16:39:38.467 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0318]> SCREEN_STATE: false
+05-17 16:39:38.477 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 318, data len 4]
+05-17 16:39:38.477 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 16:39:38.477 D/RILC    (  146): De-registering the RSSI and HDR RSSI events on screen-off request
+05-17 16:39:38.487 D/RILC    (  146): Reply to RIL --> Screen off
+05-17 16:39:38.487 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 318, Success, Len 0 Off]
+05-17 16:39:38.487 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0318]< SCREEN_STATE 
+05-17 16:39:38.497 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:38.497 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 16:39:38.497 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:38.497 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:38.497 D/RILC    (  146): RIL <=== CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 === AMSS
+05-17 16:39:38.497 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 16:39:38.497 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:46.424 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0319]> SCREEN_STATE: true
+05-17 16:39:46.424 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 319, data len 4]
+05-17 16:39:46.424 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 16:39:46.424 D/RILC    (  146): Registering the RSSI event and HDR RSSI event on screen-on request
+05-17 16:39:46.434 D/RILC    (  146): requesting CM for the latest system information
+05-17 16:39:46.444 D/RILC    (  146): Reply to RIL --> Screen on
+05-17 16:39:46.444 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 319, Success, Len 0 On]
+05-17 16:39:46.444 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0319]< SCREEN_STATE 
+05-17 16:39:46.444 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_RSSI (73729)
+05-17 16:39:46.444 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_RSSI (3808 bytes)
+05-17 16:39:46.444 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:46.444 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_RSSI (73729)
+05-17 16:39:46.444 D/RILC    (  146): RIL <--- CM_SS_EVENT_RSSI(73729), RID 0, MID 0 --- AMSS
+05-17 16:39:46.444 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_RSSI, supported state.
+05-17 16:39:46.444 D/RILC    (  146): Process event rssi, iid 0, mid 0
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 16:39:46.454 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 16:39:46.454 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 16:39:46.454 D/RILC    (  146): [CM_SS_EVENT_RSSI(73729)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 16:39:46.454 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): Arch: cdma modem id=0, evdo modem id=0, gwl modem id =0, ma=Multimode(0)
+05-17 16:39:46.454 D/RILC    (  146): Signal strength: gwl_rssi: 99, gw_bit_error: 99, cdma_dbm: -1, cdma_ecio: -1, hdr_dbm: -1, hdr_ecio: -1, hdr_sinr: -1, lte_rsrp -1, lte_rsrq -1
+05-17 16:39:46.454 D/RILC    (  146):  
+05-17 16:39:46.454 D/RILC    (  146): UI <--- RIL_UNSOL_SIGNAL_STRENGTH (1009) --- RIL [RID 0, Len 40, (null)]
+05-17 16:39:46.454 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Received srvsys event : CM_SS_EVENT_INFO (73730)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Queued event CM_SS_EVENT_INFO (3808 bytes)
+05-17 16:39:46.454 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 De-queued event CM_SS_EVENT_INFO (73730)
+05-17 16:39:46.454 D/RILC    (  146): RIL <--- CM_SS_EVENT_INFO(73730), RID 0, MID 0 --- AMSS
+05-17 16:39:46.454 D/RILC    (  146): LG_SYS: Accepted CM_SS_EVENT_INFO, supported state.
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Serving System : srv status 0, sys mode 0, roam status 0, IDM 0, hdr_hybrid 0, hdr srv status 0, hdr roam status 0, srv cap = 3
+05-17 16:39:46.454 D/RILC    (  146): RID 0 voice srv: modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Update voice radio tech 1
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Update ECC property 1
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 no update on ril.ecclist needed
+05-17 16:39:46.454 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] Modem: Off --> Off, Voice Tech: 3GPP --> 3GPP
+05-17 16:39:46.454 D/RILC    (  146): [CM_SS_EVENT_INFO(73730)] GW SIM(pri): Ready --> Ready, CDMA SIM(pri): Not ready --> Not ready, GW SIM(sec): Not ready --> Not ready, CDMA SIM(sec): Not ready --> Not ready
+05-17 16:39:46.454 D/RILC    (  146): RID 0 voice tech: gw modem id=0, ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 data tech: gwl modem id=0, pdt modem id=1, pdt=Unknown(0), ma=Multimode(0), net_pref=GSM WCDMA preferred(0)
+05-17 16:39:46.454 D/RILC    (  146): UI <--- RIL_UNSOL_RESPONSE_NETWORK_STATE_CHANGED (1002) --- RIL [RID 0, Len 0, No service on No service]
+05-17 16:39:46.454 D/RILC    (  146): UI <--- RIL_UNSOL_EXIT_EMERGENCY_CALLBACK_MODE (1037) --- RIL [RID 0, Len 0, No service on No service]
+05-17 16:39:46.454 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:46.454 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED
+05-17 16:39:46.454 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [UNSL]< RIL_UNSOL_RESPONSE_DATA_NETWORK_STATE_CHANGED
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 16:39:46.454 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:39:46.454 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:39:46.454 D/RILC    (  146): RIL <--- CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 --- AMSS
+05-17 16:39:46.454 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 16:39:46.454 D/RILC    (  146): qcril_event_main(): Waiting...
+05-17 16:39:46.484 D/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 907<!> Poll ServiceState done:  oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] 
+05-17 16:39:46.484 I/GSM     (  296): <!>com.android.internal.telephony.gsm.GsmServiceStateTracker 967<!> Network State Changed, get EONS and update operator name display
+05-17 16:39:46.484 D/GSM     (  296): <!>com.android.internal.telephony.gsm.Eons 366<!> [EONS] Reading data from EF_OPL or EF_PNN is not complete. Suppress operator name display until all EF_OPL/EF_PNN data is read.
+05-17 16:50:01.555 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0320]> SCREEN_STATE: false
+05-17 16:50:01.565 D/RILC    (  146): UI --- RIL_REQUEST_SCREEN_STATE (61) ---> RIL [RID 0, token id 320, data len 4]
+05-17 16:50:01.565 D/RILC    (  146): LG_SYS: Accepted RIL_REQUEST_SCREEN_STATE, supported state.
+05-17 16:50:01.565 D/RILC    (  146): De-registering the RSSI and HDR RSSI events on screen-off request
+05-17 16:50:01.575 D/RILC    (  146): Reply to RIL --> Screen off
+05-17 16:50:01.575 D/RILC    (  146): UI <--- RIL_REQUEST_SCREEN_STATE (61) Complete --- RIL [RID 0, Token 320, Success, Len 0 Off]
+05-17 16:50:01.575 D/RILJ    (  296): <!>com.android.internal.telephony.RIL 4551<!> [0320]< SCREEN_STATE 
+05-17 16:50:01.575 D/RILC    (  146): RID 0 MID 0 Received stats event : CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:50:01.575 D/RILC    (  146): RID 0 MID 0 Queued event CM_STATS_EVENT_MODEM_INFO (344 bytes)
+05-17 16:50:01.575 D/RILC    (  146): qcril_event_main(): 1 items on queue
+05-17 16:50:01.575 D/RILC    (  146): RID 0 MID 0 De-queued event CM_STATS_EVENT_MODEM_INFO (90112)
+05-17 16:50:01.575 D/RILC    (  146): RIL <=== CM_STATS_EVENT_MODEM_INFO(90112), RID 0, MID 0 === AMSS
+05-17 16:50:01.575 D/RILC    (  146): LG_SYS: Accepted CM_STATS_EVENT_MODEM_INFO, supported state.
+05-17 16:50:01.575 D/RILC    (  146): qcril_event_main(): Waiting...

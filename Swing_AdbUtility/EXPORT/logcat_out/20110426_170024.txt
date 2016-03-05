@@ -1,0 +1,1231 @@
+--------- beginning of /dev/log/system
+04-26 16:38:56.320 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:38:56.360 I/ActivityManager(  209): process name to start: com.google.android.apps.maps:FriendService
+04-26 16:38:56.360 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.google.android.apps.maps
+04-26 16:38:56.370 I/ActivityManager(  209): Start proc com.google.android.apps.maps:FriendService for broadcast com.google.android.apps.maps/com.google.googlenav.friend.android.ServiceReceiver: pid=595 uid=10046 gids={3003, 1015}
+04-26 16:38:56.530 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=MediaScannerService
+04-26 16:38:56.620 W/MountService(  209): Multiple volumes not currently supported
+04-26 16:38:56.950 D/PowerManagerService(  209): user activity timeout timed out nextState=3
+04-26 16:38:56.950 D/PowerManagerService(  209): setPowerState: mPowerState=0x7 newState=0x3 noChangeLights=false reason=3
+04-26 16:38:56.950 D/PowerManagerService(  209): setPowerState: mPowerState=7 newState=3 noChangeLights=false
+04-26 16:38:56.950 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:38:56.950 D/PowerManagerService(  209):   oldScreenBright=true newScreenBright=true
+04-26 16:38:56.950 D/PowerManagerService(  209):   oldButtonBright=true newButtonBright=false
+04-26 16:38:56.950 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=true
+04-26 16:38:56.950 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:38:56.950 D/PowerManagerService(  209): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x4 realDifference=0x4 forceState=0x0
+04-26 16:38:56.950 I/PowerManagerService(  209): Setting brightess off: 4
+04-26 16:38:56.950 D/PowerManagerService(  209): setTimeoutLocked now=37311 timeoutOverride=-1 nextState=1 when=84311
+04-26 16:38:56.960 I/ActivityManager(  209): process name to start: com.voxmobili.sync.MobileBackup2
+04-26 16:38:56.960 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.voxmobili.sync.MobileBac
+04-26 16:38:56.960 I/ActivityManager(  209): Start proc com.voxmobili.sync.MobileBackup2 for content provider com.voxmobili.sync.MobileBackup2/com.voxmobili.MobileBackup.provider.MobileBackupCoreDatabaseProvider: pid=607 uid=10040 gids={3003}
+04-26 16:38:57.380 I/ActivityManager(  209): process name to start: com.lge.osp
+04-26 16:38:57.390 I/ActivityManager(  209): Start proc com.lge.osp for broadcast com.lge.osp/.OSPInitReceiver: pid=619 uid=10052 gids={1000, 1003, 1002, 1001, 3002, 3001, 1015, 3003}
+04-26 16:38:57.590 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:38:57.620 I/ActivityManager(  209): process name to start: com.lge.android.atservice
+04-26 16:38:57.620 I/ActivityManager(  209): Start proc com.lge.android.atservice for broadcast com.lge.android.atservice/.LGATCMDInitReceiver: pid=627 uid=10055 gids={3003}
+04-26 16:38:57.710 I/InputManager-Callbacks(  209): No input device calibration properties found for device osp-input.
+04-26 16:38:57.710 I/InputManager-Callbacks(  209): No virtual keys found for device osp-input.
+04-26 16:38:57.710 I/InputManager-Callbacks(  209): No virtual keys found for device qt602240_ts_input.
+04-26 16:38:57.720 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:38:57.720 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:38:57.720 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:38:57.870 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.880 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Checkin Handoff
+04-26 16:38:57.880 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Checkin Service
+04-26 16:38:57.880 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Checkin Handoff
+04-26 16:38:57.890 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.900 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.900 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.920 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.930 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.940 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.950 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.970 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:57.970 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.120 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.130 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.140 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.150 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.150 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.180 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.220 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:38:58.240 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:38:58.260 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=*network-location-cell-update*
+04-26 16:38:58.290 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:38:58.290 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:38:58.310 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:38:58.360 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.370 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:38:58.370 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:38:58.380 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:38:58.380 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:38:58.400 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.400 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.420 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.480 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.490 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.500 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.510 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.540 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.540 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=false reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:38:58.580 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.650 I/ActivityManager(  209): Starting: Intent { flg=0x10000000 cmp=com.google.android.gsf/.update.SystemUpdateInstallDialog } from pid 360
+04-26 16:38:58.660 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Launch
+04-26 16:38:58.670 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:38:58.690 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:38:58.690 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:38:58.750 I/ActivityManager(  209): process name to start: com.google.android.partnersetup
+04-26 16:38:58.750 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.google.android.partnerse
+04-26 16:38:58.770 I/ActivityManager(  209): Start proc com.google.android.partnersetup for broadcast com.google.android.partnersetup/.GooglePartnerSetup: pid=651 uid=10059 gids={}
+04-26 16:38:58.840 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=*network-location-cell-update*
+04-26 16:38:58.920 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Launch
+04-26 16:38:58.930 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Checkin Service
+04-26 16:38:58.960 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:38:58.970 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:38:58.970 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:38:59.040 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:38:59.040 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:38:59.050 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ActivityManager-Launch
+04-26 16:38:59.080 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=*network-location-cell-update*
+04-26 16:38:59.110 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:59.110 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=*network-location-cell-update*
+04-26 16:38:59.130 I/ActivityManager(  209): process name to start: com.google.android.gm
+04-26 16:38:59.130 I/ActivityManager(  209): Start proc com.google.android.gm for broadcast com.google.android.gm/.MailIntentReceiver: pid=659 uid=10060 gids={3003, 1015}
+04-26 16:38:59.190 I/ActivityManager(  209): process name to start: com.telenav.app.android.telenav
+04-26 16:38:59.190 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.telenav.app.android.tele
+04-26 16:38:59.190 I/ActivityManager(  209): Start proc com.telenav.app.android.telenav for service com.telenav.app.android.telenav/.ResourcePreLoaderService: pid=664 uid=10016 gids={3003, 1015}
+04-26 16:38:59.870 I/ActivityManager(  209): Process com.telenav.app.android.telenav (pid 664) has died.
+04-26 16:38:59.870 W/ActivityManager(  209): Scheduling restart of crashed service com.telenav.app.android.telenav/.ResourcePreLoaderService in 20000ms
+04-26 16:38:59.950 W/MountService(  209): Multiple volumes not currently supported
+04-26 16:38:59.950 I/ActivityManager(  209): process name to start: com.lge.drmservice
+04-26 16:38:59.950 I/ActivityManager(  209): Start proc com.lge.drmservice for broadcast com.lge.drmservice/.DrmServiceStart: pid=684 uid=10068 gids={4002, 3003}
+04-26 16:38:59.960 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=MediaScannerService
+04-26 16:38:59.990 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:39:00.250 I/ActivityManager(  209): process name to start: com.tmobile.driving.system
+04-26 16:39:00.260 I/ActivityManager(  209): Start proc com.tmobile.driving.system for broadcast com.tmobile.driving.system/.receiver.OnBootReceiver: pid=693 uid=1000 gids={3003, 3002, 3001, 4002, 1015, 1006}
+04-26 16:39:00.570 I/ActivityManager(  209): process name to start: com.android.deskclock
+04-26 16:39:00.580 I/ActivityManager(  209): Start proc com.android.deskclock for broadcast com.android.deskclock/.AlarmInitReceiver: pid=702 uid=10072 gids={4002}
+04-26 16:39:00.750 I/ActivityManager(  209): No longer want com.lge.sizechangable.weather (pid 496): hidden #16
+04-26 16:39:00.840 I/ActivityManager(  209): process name to start: com.android.camera
+04-26 16:39:00.850 I/ActivityManager(  209): Start proc com.android.camera for broadcast com.android.camera/.BootCamera: pid=712 uid=10077 gids={1006, 1015}
+04-26 16:39:00.850 I/ActivityManager(  209): No longer want com.android.voicedialer (pid 517): hidden #16
+04-26 16:39:00.930 I/ActivityManager(  209): process name to start: com.android.providers.calendar
+04-26 16:39:00.940 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.android.providers.calend
+04-26 16:39:00.940 I/ActivityManager(  209): Start proc com.android.providers.calendar for broadcast com.android.providers.calendar/.CalendarReceiver: pid=720 uid=10079 gids={3003}
+04-26 16:39:00.940 I/ActivityManager(  209): No longer want com.android.settings (pid 540): hidden #16
+04-26 16:39:01.040 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.040 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.040 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.060 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.510 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ServiceStateTracker
+04-26 16:38:58.530 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:38:58.530 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:38:58.530 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:38:58.630 I/ActivityManager(  209): process name to start: com.lge.clock
+04-26 16:38:58.640 I/ActivityManager(  209): Start proc com.lge.clock for broadcast com.lge.clock/.alarmclock.ALBootInit: pid=730 uid=10087 gids={3003, 4002}
+04-26 16:38:58.640 I/ActivityManager(  209): No longer want com.lge.appwidget.settings.networkusage (pid 561): hidden #16
+04-26 16:38:58.650 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.650 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.650 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.660 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:38:58.680 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:38:58.680 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:38:58.680 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:38:59.100 I/ActivityManager(  209): process name to start: com.google.android.googlequicksearchbox
+04-26 16:38:59.100 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.google.android.googlequi
+04-26 16:38:59.110 I/ActivityManager(  209): Start proc com.google.android.googlequicksearchbox for broadcast com.google.android.googlequicksearchbox/.SearchWidgetProvider: pid=740 uid=10058 gids={3003}
+04-26 16:38:59.110 I/ActivityManager(  209): No longer want com.voxmobili.sync.MobileBackup2:remote (pid 579): hidden #16
+04-26 16:38:59.460 I/ActivityManager(  209): No longer want com.lge.sns (pid 552): hidden #16
+04-26 16:38:59.520 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:38:59.580 I/ActivityManager(  209): process name to start: com.cooliris.media
+04-26 16:38:59.580 I/ActivityManager(  209): Start proc com.cooliris.media for broadcast com.cooliris.media/com.cooliris.cache.BootReceiver: pid=755 uid=10062 gids={1015, 3003, 4002}
+04-26 16:38:59.780 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:38:59.980 D/PowerManagerService(  209): acquireWakeLock flags=0x20000006 tag=ADN_CACHING_SERVICE
+04-26 16:38:59.980 D/PowerManagerService(  209): here mUserState=0x3 mLocks.gatherState()=0x1 mWakeLockState=0x0
+04-26 16:38:59.980 D/PowerManagerService(  209): setPowerState: mPowerState=0x3 newState=0x3 noChangeLights=false reason=3
+04-26 16:38:59.980 D/ActivityThread(  439): Loading provider icc: com.android.phone.IccProvider
+04-26 16:39:00.080 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:00.080 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:00.090 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.090 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.100 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.120 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.120 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.130 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.150 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.160 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.290 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:39:00.290 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Checkin Handoff
+04-26 16:39:00.320 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:00.320 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:00.330 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Checkin Service
+04-26 16:39:00.330 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Checkin Handoff
+04-26 16:39:00.550 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.570 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Checkin Service
+04-26 16:39:00.600 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.650 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:39:00.660 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.670 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:39:00.710 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.750 I/ActivityManager(  209): No longer want com.android.music (pid 569): hidden #16
+04-26 16:39:00.760 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.760 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:39:00.780 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.800 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.830 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.860 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.910 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.930 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.950 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:00.980 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.110 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ServiceStateTracker
+04-26 16:39:01.160 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.270 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.310 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.330 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.350 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.370 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.390 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.410 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.440 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.470 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.500 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.580 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.650 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.740 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.790 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.810 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.840 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.880 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:01.960 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.090 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.090 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.100 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.100 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.110 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.130 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:39:02.130 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:02.130 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:02.170 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:39:02.170 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:39:02.180 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:39:02.200 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:39:02.210 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:02.220 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:02.220 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:02.240 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:02.240 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:02.240 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:39:02.250 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.270 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.270 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:39:02.270 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:39:02.280 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.290 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.300 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.310 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.320 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.340 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.350 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.360 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=dataNetworkAttached interfaceName=null networkType=2
+04-26 16:39:02.380 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.400 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.440 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.440 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.440 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.460 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.460 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.470 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.490 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.490 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.610 I/TelephonyRegistry(  209): notifyDataConnection: state=0 isDataConnectivityPossible=true reason=radioTechnologyChanged interfaceName=null networkType=2
+04-26 16:39:02.730 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:39:03.100 D/PowerManagerService(  209): releaseWakeLock flags=0x20000006 tag=ADN_CACHING_SERVICE
+04-26 16:39:03.100 D/PowerManagerService(  209): userActivity mLastEventTime=31307 time=46093 mUserActivityAllowed=false mUserState=0x3 mWakeLockState=0x0 mProximitySensorActive=false timeoutOverride=-1 force=false
+04-26 16:39:03.100 D/PowerManagerService(  209): setPowerState: mPowerState=0x3 newState=0x3 noChangeLights=false reason=3
+04-26 16:39:06.060 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:12.270 D/NetdConnector(  209): SND -> {interface list} {null}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 lo}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 dummy0}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet0}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet1}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet2}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet3}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet4}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet5}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet6}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet7}
+04-26 16:39:12.270 D/NetdConnector(  209): RCV <- {110 rmnet_sdio0}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 lo}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 dummy0}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet0}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet1}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet2}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet3}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet4}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet5}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet6}
+04-26 16:39:12.270 D/NetdConnector(  209): RSP <- {110 rmnet7}
+04-26 16:39:12.280 D/NetdConnector(  209): RSP <- {110 rmnet_sdio0}
+04-26 16:39:12.290 D/NetdConnector(  209): RCV <- {110 rmnet_sdio1}
+04-26 16:39:12.290 D/NetdConnector(  209): RSP <- {110 rmnet_sdio1}
+04-26 16:39:12.290 D/NetdConnector(  209): RCV <- {110 rmnet_sdio2}
+04-26 16:39:12.290 D/NetdConnector(  209): RSP <- {110 rmnet_sdio2}
+04-26 16:39:12.290 D/NetdConnector(  209): RCV <- {110 rmnet_sdio3}
+04-26 16:39:12.290 D/NetdConnector(  209): RSP <- {110 rmnet_sdio3}
+04-26 16:39:12.290 D/NetdConnector(  209): RCV <- {110 rmnet_sdio4}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 rmnet_sdio4}
+04-26 16:39:12.300 D/NetdConnector(  209): RCV <- {110 rmnet_sdio5}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 rmnet_sdio5}
+04-26 16:39:12.300 D/NetdConnector(  209): RCV <- {110 rmnet_sdio6}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 rmnet_sdio6}
+04-26 16:39:12.300 D/NetdConnector(  209): RCV <- {110 rmnet_sdio7}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 rmnet_sdio7}
+04-26 16:39:12.300 D/NetdConnector(  209): RCV <- {110 usb0}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 usb0}
+04-26 16:39:12.300 D/NetdConnector(  209): RCV <- {110 sit0}
+04-26 16:39:12.300 D/NetdConnector(  209): RSP <- {110 sit0}
+04-26 16:39:12.310 D/NetdConnector(  209): RCV <- {110 ip6tnl0}
+04-26 16:39:12.310 D/NetdConnector(  209): RSP <- {110 ip6tnl0}
+04-26 16:39:12.310 D/NetdConnector(  209): RCV <- {200 Interface list completed}
+04-26 16:39:12.310 D/NetdConnector(  209): RSP <- {200 Interface list completed}
+04-26 16:39:12.310 D/NetdConnector(  209): List terminated with {200 Interface list completed}
+04-26 16:39:12.330 D/NetdConnector(  209): SND -> {interface list} {null}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 lo}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 dummy0}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet0}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet1}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet2}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet3}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet4}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet5}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet6}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet7}
+04-26 16:39:12.330 D/NetdConnector(  209): RCV <- {110 rmnet_sdio0}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 lo}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 dummy0}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet0}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet1}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet2}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet3}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet4}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet5}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet6}
+04-26 16:39:12.330 D/NetdConnector(  209): RSP <- {110 rmnet7}
+04-26 16:39:12.340 D/NetdConnector(  209): RSP <- {110 rmnet_sdio0}
+04-26 16:39:12.340 D/NetdConnector(  209): RCV <- {110 rmnet_sdio1}
+04-26 16:39:12.340 D/NetdConnector(  209): RSP <- {110 rmnet_sdio1}
+04-26 16:39:12.340 D/NetdConnector(  209): RCV <- {110 rmnet_sdio2}
+04-26 16:39:12.340 D/NetdConnector(  209): RSP <- {110 rmnet_sdio2}
+04-26 16:39:12.340 D/NetdConnector(  209): RCV <- {110 rmnet_sdio3}
+04-26 16:39:12.340 D/NetdConnector(  209): RSP <- {110 rmnet_sdio3}
+04-26 16:39:12.340 D/NetdConnector(  209): RCV <- {110 rmnet_sdio4}
+04-26 16:39:12.340 D/NetdConnector(  209): RSP <- {110 rmnet_sdio4}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 rmnet_sdio5}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 rmnet_sdio5}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 rmnet_sdio6}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 rmnet_sdio6}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 rmnet_sdio7}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 rmnet_sdio7}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 usb0}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 usb0}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 sit0}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 sit0}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {110 ip6tnl0}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {110 ip6tnl0}
+04-26 16:39:12.350 D/NetdConnector(  209): RCV <- {200 Interface list completed}
+04-26 16:39:12.350 D/NetdConnector(  209): RSP <- {200 Interface list completed}
+04-26 16:39:12.360 D/NetdConnector(  209): List terminated with {200 Interface list completed}
+04-26 16:39:17.250 I/ActivityManager(  209): process name to start: com.telenav.app.android.telenav
+04-26 16:39:17.250 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.telenav.app.android.tele
+04-26 16:39:17.270 I/ActivityManager(  209): Start proc com.telenav.app.android.telenav for service com.telenav.app.android.telenav/.ResourcePreLoaderService: pid=775 uid=10016 gids={3003, 1015}
+04-26 16:39:17.470 I/ActivityManager(  209): Process com.telenav.app.android.telenav (pid 775) has died.
+04-26 16:39:17.470 W/ActivityManager(  209): Scheduling restart of crashed service com.telenav.app.android.telenav/.ResourcePreLoaderService in 80000ms
+04-26 16:39:36.080 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:39:41.350 D/PowerManagerService(  209): user activity timeout timed out nextState=1
+04-26 16:39:41.350 D/PowerManagerService(  209): setPowerState: mPowerState=0x3 newState=0x1 noChangeLights=false reason=3
+04-26 16:39:41.350 D/PowerManagerService(  209): setPowerState: mPowerState=3 newState=1 noChangeLights=false
+04-26 16:39:41.350 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:39:41.350 D/PowerManagerService(  209):   oldScreenBright=true newScreenBright=false
+04-26 16:39:41.350 D/PowerManagerService(  209):   oldButtonBright=false newButtonBright=false
+04-26 16:39:41.350 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=true
+04-26 16:39:41.350 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:39:41.350 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=102.0 target=20 targetValue=20 delta=-4.5555553 nominalCurrentValue=102
+04-26 16:39:41.350 I/PowerManagerService(  209): scheduling light animator
+04-26 16:39:41.360 D/PowerManagerService(  209): offMask=0x0 dimMask=0x0 onMask=0x0 difference=0x2 realDifference=0x2 forceState=0x0
+04-26 16:39:41.360 D/PowerManagerService(  209): setTimeoutLocked now=84350 timeoutOverride=-1 nextState=0 when=91350
+04-26 16:39:41.360 D/PowerManagerService(  209): Animating curIntValue=97: 2
+04-26 16:39:41.370 D/PowerManagerService(  209): Animating curIntValue=92: 2
+04-26 16:39:41.390 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:39:41.410 D/PowerManagerService(  209): Animating curIntValue=83: 2
+04-26 16:39:41.420 D/PowerManagerService(  209): Animating curIntValue=79: 2
+04-26 16:39:41.440 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:39:41.460 D/PowerManagerService(  209): Animating curIntValue=70: 2
+04-26 16:39:41.470 D/PowerManagerService(  209): Animating curIntValue=65: 2
+04-26 16:39:41.490 D/PowerManagerService(  209): Animating curIntValue=60: 2
+04-26 16:39:41.510 D/PowerManagerService(  209): Animating curIntValue=56: 2
+04-26 16:39:41.520 D/PowerManagerService(  209): Animating curIntValue=51: 2
+04-26 16:39:41.540 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:39:41.550 D/PowerManagerService(  209): Animating curIntValue=42: 2
+04-26 16:39:41.570 D/PowerManagerService(  209): Animating curIntValue=38: 2
+04-26 16:39:41.590 D/PowerManagerService(  209): Animating curIntValue=33: 2
+04-26 16:39:41.600 D/PowerManagerService(  209): Animating curIntValue=29: 2
+04-26 16:39:41.620 D/PowerManagerService(  209): Animating curIntValue=24: 2
+04-26 16:39:41.640 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:39:48.360 D/PowerManagerService(  209): user activity timeout timed out nextState=0
+04-26 16:39:48.360 D/PowerManagerService(  209): setPowerState: mPowerState=0x1 newState=0x0 noChangeLights=false reason=3
+04-26 16:39:48.360 D/PowerManagerService(  209): setPowerState: mPowerState=1 newState=0 noChangeLights=false
+04-26 16:39:48.360 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:39:48.360 D/PowerManagerService(  209):   oldScreenBright=false newScreenBright=false
+04-26 16:39:48.360 D/PowerManagerService(  209):   oldButtonBright=false newButtonBright=false
+04-26 16:39:48.360 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=false
+04-26 16:39:48.360 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:39:48.360 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=20.0 target=0 targetValue=0 delta=-5.0 nominalCurrentValue=20
+04-26 16:39:48.360 I/PowerManagerService(  209): scheduling light animator
+04-26 16:39:48.360 D/PowerManagerService(  209): offMask=0x0 dimMask=0x0 onMask=0x0 difference=0x1 realDifference=0x1 forceState=0x0
+04-26 16:39:48.360 D/PowerManagerService(  209): Animating curIntValue=15: 2
+04-26 16:39:48.390 D/PowerManagerService(  209): Animating curIntValue=10: 2
+04-26 16:39:48.400 D/PowerManagerService(  209): Animating curIntValue=5: 2
+04-26 16:39:48.420 D/PowerManagerService(  209): Animating curIntValue=0: 2
+04-26 16:39:48.420 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:39:48.500 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:39:48.500 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:39:48.500 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:39:48.530 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:39:48.540 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:39:48.550 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:39:48.560 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:40:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:40:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:40:09.820 D/NetdConnector(  209): SND -> {interface readrxcounter rmnet0} {null}
+04-26 16:40:09.830 D/NetdConnector(  209): RCV <- {216 0}
+04-26 16:40:09.840 D/NetdConnector(  209): RSP <- {216 0}
+04-26 16:40:09.840 D/NetdConnector(  209): SND -> {interface readtxcounter rmnet0} {null}
+04-26 16:40:09.850 D/NetdConnector(  209): RCV <- {217 0}
+04-26 16:40:09.850 D/NetdConnector(  209): RSP <- {217 0}
+04-26 16:40:37.510 I/ActivityManager(  209): process name to start: com.telenav.app.android.telenav
+04-26 16:40:37.510 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.telenav.app.android.tele
+04-26 16:40:37.530 I/ActivityManager(  209): Start proc com.telenav.app.android.telenav for service com.telenav.app.android.telenav/.ResourcePreLoaderService: pid=818 uid=10016 gids={3003, 1015}
+04-26 16:40:37.750 I/ActivityManager(  209): Process com.telenav.app.android.telenav (pid 818) has died.
+04-26 16:40:37.750 W/ActivityManager(  209): Scheduling restart of crashed service com.telenav.app.android.telenav/.ResourcePreLoaderService in 320000ms
+04-26 16:41:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:41:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:42:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:42:00.060 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:43:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:43:00.050 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:43:59.480 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:43:59.530 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:43:59.790 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:43:59.790 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:43:59.790 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:43:59.790 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:44:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:44:00.120 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:45:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:45:00.060 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:45:57.810 I/ActivityManager(  209): process name to start: com.telenav.app.android.telenav
+04-26 16:45:57.810 E/ActivityManager(  209): heap conf. property name string trimmed: hs.com.telenav.app.android.tele
+04-26 16:45:57.850 I/ActivityManager(  209): Start proc com.telenav.app.android.telenav for service com.telenav.app.android.telenav/.ResourcePreLoaderService: pid=961 uid=10016 gids={3003, 1015}
+04-26 16:45:58.110 I/ActivityManager(  209): Process com.telenav.app.android.telenav (pid 961) has died.
+04-26 16:45:58.110 W/ActivityManager(  209): Scheduling restart of crashed service com.telenav.app.android.telenav/.ResourcePreLoaderService in 1280000ms
+04-26 16:46:00.020 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:46:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:46:46.330 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:46:46.340 D/PowerManagerService(  209): acquireWakeLock flags=0x1000001a tag=keyguard
+04-26 16:46:46.340 D/PowerManagerService(  209): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+04-26 16:46:46.340 D/PowerManagerService(  209): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x0
+04-26 16:46:46.340 D/PowerManagerService(  209): setPowerState: mPowerState=0x0 newState=0x7 noChangeLights=false reason=3
+04-26 16:46:46.340 D/PowerManagerService(  209): setPowerState: mPowerState=0 newState=7 noChangeLights=false
+04-26 16:46:46.340 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:46:46.340 D/PowerManagerService(  209):   oldScreenBright=false newScreenBright=true
+04-26 16:46:46.340 D/PowerManagerService(  209):   oldButtonBright=false newButtonBright=true
+04-26 16:46:46.340 D/PowerManagerService(  209):   oldScreenOn=false newScreenOn=true
+04-26 16:46:46.340 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:46:46.340 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=0.0 target=102 targetValue=102 delta=6.8 nominalCurrentValue=0
+04-26 16:46:46.340 I/PowerManagerService(  209): scheduling light animator
+04-26 16:46:46.340 D/PowerManagerService(  209): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:46:46.340 I/PowerManagerService(  209): Setting brightess on 102: 4
+04-26 16:46:46.340 D/PowerManagerService(  209): - turning screen on...  mPreventScreenOn = false
+04-26 16:46:46.340 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:46:46.340 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:46:46.340 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:46:46.350 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:46:46.360 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:46:46.360 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:46:46.360 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:46:46.360 D/PowerManagerService(  209): mBroadcastWakeLock=UnsynchronizedWakeLock(mFlags=0x1 mCount=1 mHeld=true)
+04-26 16:46:46.370 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.380 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:46:46.380 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.390 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:46:46.400 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:46:46.410 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:46:46.410 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:46:46.410 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.410 D/PowerManagerService(  209): Animating curIntValue=34: 2
+04-26 16:46:46.420 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:46:46.430 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.430 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.430 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.440 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:46:46.440 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:46:46.460 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:46:46.460 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:46:46.460 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:46:46.460 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:46:46.470 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:46:46.480 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:46:46.490 D/PowerManagerService(  209): Animating curIntValue=68: 2
+04-26 16:46:46.510 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:46:46.520 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:46:46.540 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:46:46.550 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:46:46.550 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:46:46.570 D/PowerManagerService(  209): Animating curIntValue=102: 2
+04-26 16:46:51.350 D/PowerManagerService(  209): releaseWakeLock flags=0x1000001a tag=keyguard
+04-26 16:46:51.350 D/PowerManagerService(  209): setPowerState: mPowerState=0x7 newState=0x0 noChangeLights=false reason=3
+04-26 16:46:51.350 D/PowerManagerService(  209): setPowerState: mPowerState=7 newState=0 noChangeLights=false
+04-26 16:46:51.350 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:46:51.350 D/PowerManagerService(  209):   oldScreenBright=true newScreenBright=false
+04-26 16:46:51.350 D/PowerManagerService(  209):   oldButtonBright=true newButtonBright=false
+04-26 16:46:51.350 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=false
+04-26 16:46:51.350 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:46:51.350 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=102.0 target=0 targetValue=0 delta=-6.8 nominalCurrentValue=102
+04-26 16:46:51.350 I/PowerManagerService(  209): scheduling light animator
+04-26 16:46:51.370 D/PowerManagerService(  209): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:46:51.370 I/PowerManagerService(  209): Setting brightess off: 4
+04-26 16:46:51.370 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:46:51.390 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:46:51.400 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:46:51.420 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:46:51.430 D/PowerManagerService(  209): Animating curIntValue=67: 2
+04-26 16:46:51.450 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:46:51.470 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:46:51.480 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:46:51.500 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:46:51.530 D/PowerManagerService(  209): Animating curIntValue=33: 2
+04-26 16:46:51.540 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:46:51.560 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:46:51.580 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:46:51.590 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:46:51.610 D/PowerManagerService(  209): Animating curIntValue=0: 2
+04-26 16:46:51.610 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:46:51.620 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:46:51.620 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:46:51.620 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:46:51.630 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:46:51.640 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:46:51.650 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:46:51.680 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:47:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:47:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:48:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:48:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:49:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:49:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:50:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:50:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:50:09.840 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:50:09.850 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:50:09.850 D/NetdConnector(  209): SND -> {interface readrxcounter rmnet0} {null}
+04-26 16:50:09.860 D/NetdConnector(  209): RCV <- {216 0}
+04-26 16:50:09.870 D/NetdConnector(  209): RSP <- {216 0}
+04-26 16:50:09.870 D/NetdConnector(  209): SND -> {interface readtxcounter rmnet0} {null}
+04-26 16:50:09.870 D/NetdConnector(  209): RCV <- {217 0}
+04-26 16:50:09.870 D/NetdConnector(  209): RSP <- {217 0}
+04-26 16:51:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:51:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:52:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:52:00.060 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:53:00.020 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:53:00.080 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:53:54.710 I/ActivityManager(  209): process name to start: com.google.android.apps.maps
+04-26 16:53:54.750 I/ActivityManager(  209): Start proc com.google.android.apps.maps for service com.google.android.apps.maps/com.google.googlenav.prefetch.android.PrefetcherService: pid=1170 uid=10046 gids={3003, 1015}
+04-26 16:53:54.750 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:53:54.750 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:53:55.320 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=PrefetcherService
+04-26 16:53:55.320 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=PrefetcherService
+04-26 16:53:59.990 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:54:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:54:05.350 I/ActivityManager(  209): No longer want com.google.android.apps.maps:FriendService (pid 595): hidden #16
+04-26 16:54:06.450 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:54:06.480 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Event Log Handoff
+04-26 16:54:06.500 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:54:06.500 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=Event Log Service
+04-26 16:54:06.510 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Event Log Handoff
+04-26 16:54:06.560 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=Event Log Service
+04-26 16:55:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:55:00.100 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:56:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:56:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:57:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:57:00.060 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:58:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:58:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 16:59:00.000 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 16:59:00.060 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+--------- beginning of /dev/log/main
+04-26 16:59:02.770 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1245749
+04-26 16:59:02.910 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1245890
+04-26 16:59:03.050 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246031
+04-26 16:59:03.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246173
+04-26 16:59:03.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246313
+04-26 16:59:03.480 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246454
+04-26 16:59:03.620 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246596
+04-26 16:59:03.760 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246736
+04-26 16:59:03.900 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1246877
+04-26 16:59:04.700 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1247679
+04-26 16:59:04.840 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1247819
+04-26 16:59:04.980 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1247960
+04-26 16:59:05.120 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248099
+04-26 16:59:05.260 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248241
+04-26 16:59:05.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248382
+04-26 16:59:05.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248522
+04-26 16:59:05.690 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248665
+04-26 16:59:05.830 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248806
+04-26 16:59:05.970 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1248946
+04-26 16:59:06.110 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1249087
+04-26 16:59:06.910 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1249889
+04-26 16:59:07.050 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250029
+04-26 16:59:07.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250170
+04-26 16:59:07.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250311
+04-26 16:59:07.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250452
+04-26 16:59:07.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250592
+04-26 16:59:07.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250733
+04-26 16:59:07.900 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1250875
+04-26 16:59:08.040 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1251015
+04-26 16:59:08.180 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1251156
+04-26 16:59:08.320 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1251296
+04-26 16:59:09.120 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252098
+04-26 16:59:09.260 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252239
+04-26 16:59:09.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252380
+04-26 16:59:09.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252521
+04-26 16:59:09.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252661
+04-26 16:59:09.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252801
+04-26 16:59:09.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1252942
+04-26 16:59:10.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1253083
+04-26 16:59:10.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1253224
+04-26 16:59:10.390 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1253364
+04-26 16:59:10.530 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1253505
+04-26 16:59:11.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1254307
+04-26 16:59:11.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1254447
+04-26 16:59:11.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1254588
+04-26 16:59:11.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1254729
+04-26 16:59:11.890 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1254869
+04-26 16:59:12.030 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255010
+04-26 16:59:12.170 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255151
+04-26 16:59:12.310 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255292
+04-26 16:59:12.450 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255432
+04-26 16:59:12.590 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255572
+04-26 16:59:12.730 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1255713
+04-26 16:59:13.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1256514
+04-26 16:59:13.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1256656
+04-26 16:59:13.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1256796
+04-26 16:59:13.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1256937
+04-26 16:59:14.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257077
+04-26 16:59:14.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257218
+04-26 16:59:14.380 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257358
+04-26 16:59:14.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257498
+04-26 16:59:14.660 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257639
+04-26 16:59:14.800 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257780
+04-26 16:59:14.940 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1257920
+04-26 16:59:15.700 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 746<!> onWakeKeyWhenKeyguardShowing(26)
+04-26 16:59:15.700 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 608<!> wakeWhenReadyLocked(26)
+04-26 16:59:15.700 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:59:15.710 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1087<!> handleWakeWhenReady(26)
+04-26 16:59:15.710 D/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 494<!> onWakeKey
+04-26 16:59:15.710 I/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 495<!> wakeWhenReadyTq simState=READY
+04-26 16:59:15.710 D/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 502<!> poking wake lock immediately
+04-26 16:59:15.710 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 790<!> pokeWakelock(5000)
+04-26 16:59:15.710 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 353<!> onScreenTurnedOn, seq = 3
+04-26 16:59:15.710 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 596<!> notifyScreenOnLocked
+04-26 16:59:15.710 D/PowerManagerService(  209): acquireWakeLock flags=0x1000001a tag=keyguard
+04-26 16:59:15.710 D/PowerManagerService(  209): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+04-26 16:59:15.710 D/PowerManagerService(  209): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x0
+04-26 16:59:15.710 D/PowerManagerService(  209): setPowerState: mPowerState=0x0 newState=0x7 noChangeLights=false reason=3
+04-26 16:59:15.710 D/PowerManagerService(  209): setPowerState: mPowerState=0 newState=7 noChangeLights=false
+04-26 16:59:15.710 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:59:15.710 D/PowerManagerService(  209):   oldScreenBright=false newScreenBright=true
+04-26 16:59:15.710 D/PowerManagerService(  209):   oldButtonBright=false newButtonBright=true
+04-26 16:59:15.710 D/PowerManagerService(  209):   oldScreenOn=false newScreenOn=true
+04-26 16:59:15.710 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:59:15.710 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=0.0 target=102 targetValue=102 delta=6.8 nominalCurrentValue=0
+04-26 16:59:15.710 I/PowerManagerService(  209): scheduling light animator
+04-26 16:59:15.710 D/PowerManagerService(  209): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:59:15.710 I/PowerManagerService(  209): Setting brightess on 102: 4
+04-26 16:59:15.710 D/PowerManagerService(  209): - turning screen on...  mPreventScreenOn = false
+04-26 16:59:15.710 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:15.710 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:59:15.710 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:59:15.710 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:59:15.720 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1149<!> handleNotifyScreenOn
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1131<!> simState(READY)
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1166<!> updateLayout: status=Normal
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1670<!> >> refreshMusicPlayerDisplay() ----------------------
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1685<!>    music play info = null
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1686<!>    has music play info = false
+04-26 16:59:15.720 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1687<!>    has music play status = stoped
+04-26 16:59:15.730 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:59:15.730 D/PowerManagerService(  209): mBroadcastWakeLock=UnsynchronizedWakeLock(mFlags=0x1 mCount=1 mHeld=true)
+04-26 16:59:15.730 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.740 V/DATA    (  293): <!>com.android.internal.telephony.MMDataConnectionTracker 1982<!> [DCT] intent received :android.intent.action.SCREEN_ON
+04-26 16:59:15.740 D/LGE_data(  293): <!>com.android.internal.telephony.MMDataConnectionTracker$1 296<!> ACTION_SCREEN_ON received. mIsScreenOn= true
+04-26 16:59:15.740 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:59:15.740 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.760 D/MOBILEBACKUP_SRV(  587): <!>com.voxmobili.service.impl.ScreenSaverManager 95<!> ScreenSaverManager - onReceive Intent { act=android.intent.action.SCREEN_ON flg=0x40000000 }
+04-26 16:59:15.760 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:59:15.760 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:15.770 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:15.770 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:15.770 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:15.770 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:15.770 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:59:15.770 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:59:15.770 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.770 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.780 I/Lockscreen(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1425<!> onResume isScreenOn true
+04-26 16:59:15.780 D/PowerManagerService(  209): Animating curIntValue=34: 2
+04-26 16:59:15.780 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.780 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.790 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.790 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.790 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:59:15.800 D/DATA    (  293): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] pollstate() : reason = data network state changed
+04-26 16:59:15.800 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.800 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:15.810 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1258797
+04-26 16:59:15.810 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:59:15.820 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:59:15.830 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:15.830 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:15.830 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:59:15.830 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:59:15.830 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:59:15.840 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:59:15.850 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings$15 286<!> mPhoneStateHandler:handleMessage)
+04-26 16:59:15.850 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 884<!> onAirplaneModeChanged:: !!!Disable
+04-26 16:59:15.850 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1652<!>     ### music artist = null
+04-26 16:59:15.850 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1653<!>     ### music track = null
+04-26 16:59:15.850 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1654<!>     ### music state = stop
+04-26 16:59:15.860 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1652<!>     ### music artist = null
+04-26 16:59:15.860 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1653<!>     ### music track = null
+04-26 16:59:15.860 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1654<!>     ### music state = stop
+04-26 16:59:15.860 D/PowerManagerService(  209): Animating curIntValue=68: 2
+04-26 16:59:15.860 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:59:15.870 D/DATA    (  293): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] Poll ServiceState done: oldSS=[0 home null null null  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[0 home null null null  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false]
+04-26 16:59:15.870 D/NotificationMgr(  293): <!>com.android.phone.NotificationMgr 1154<!> updateNetworkSelection()...state = 0 new network 
+04-26 16:59:15.870 V/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 649<!> setBTButton: BT Set DISABLED
+04-26 16:59:15.870 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 605<!> WifiManager.WIFI_STATE_CHANGED_ACTION
+04-26 16:59:15.870 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:59:15.880 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1258864
+04-26 16:59:15.890 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:59:15.910 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:59:15.920 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:59:15.940 D/PowerManagerService(  209): Animating curIntValue=102: 2
+04-26 16:59:15.950 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:59:16.020 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259004
+04-26 16:59:16.180 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259145
+04-26 16:59:16.300 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259284
+04-26 16:59:16.440 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259424
+04-26 16:59:16.580 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259564
+04-26 16:59:16.720 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259705
+04-26 16:59:16.860 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259845
+04-26 16:59:17.000 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1259985
+04-26 16:59:17.140 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1260125
+04-26 16:59:17.280 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1260265
+04-26 16:59:18.080 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261066
+04-26 16:59:18.220 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261206
+04-26 16:59:18.360 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261346
+04-26 16:59:18.500 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261486
+04-26 16:59:18.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261626
+04-26 16:59:18.780 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261766
+04-26 16:59:18.920 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1261906
+04-26 16:59:19.060 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1262047
+04-26 16:59:19.210 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1262187
+04-26 16:59:19.350 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1262327
+04-26 16:59:19.490 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1262469
+04-26 16:59:20.290 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263270
+04-26 16:59:20.430 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263411
+04-26 16:59:20.570 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263552
+04-26 16:59:20.720 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 940<!> handleTimeout
+04-26 16:59:20.720 D/PowerManagerService(  209): releaseWakeLock flags=0x1000001a tag=keyguard
+04-26 16:59:20.720 D/PowerManagerService(  209): setPowerState: mPowerState=0x7 newState=0x0 noChangeLights=false reason=3
+04-26 16:59:20.720 D/PowerManagerService(  209): setPowerState: mPowerState=7 newState=0 noChangeLights=false
+04-26 16:59:20.720 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:59:20.720 D/PowerManagerService(  209):   oldScreenBright=true newScreenBright=false
+04-26 16:59:20.730 D/PowerManagerService(  209):   oldButtonBright=true newButtonBright=false
+04-26 16:59:20.730 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=false
+04-26 16:59:20.730 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:59:20.730 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=102.0 target=0 targetValue=0 delta=-6.8 nominalCurrentValue=102
+04-26 16:59:20.730 I/PowerManagerService(  209): scheduling light animator
+04-26 16:59:20.730 D/PowerManagerService(  209): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:59:20.730 I/PowerManagerService(  209): Setting brightess off: 4
+04-26 16:59:20.740 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263723
+04-26 16:59:20.740 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:59:20.750 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:59:20.770 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:59:20.790 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:59:20.800 D/PowerManagerService(  209): Animating curIntValue=67: 2
+04-26 16:59:20.820 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:59:20.840 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:59:20.850 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:59:20.860 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263839
+04-26 16:59:20.870 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:59:20.890 D/PowerManagerService(  209): Animating curIntValue=33: 2
+04-26 16:59:20.900 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:59:20.920 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:59:20.940 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:59:20.950 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 312<!> onScreenTurnedOff(3)
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 586<!> notifyScreenOffLocked
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 565<!> resetStateLocked
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1138<!> handleNotifyScreenOff
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1115<!> handleReset
+04-26 16:59:20.970 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 460<!> setHidden false
+04-26 16:59:20.970 D/PowerManagerService(  209): Animating curIntValue=0: 2
+04-26 16:59:20.970 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:20.970 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:59:20.990 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:59:20.990 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:59:20.990 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:59:21.010 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1263988
+04-26 16:59:21.020 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:21.030 V/DATA    (  293): <!>com.android.internal.telephony.MMDataConnectionTracker 1982<!> [DCT] intent received :android.intent.action.SCREEN_OFF
+04-26 16:59:21.030 D/LGE_data(  293): <!>com.android.internal.telephony.MMDataConnectionTracker$1 302<!> ACTION_SCREEN_OFF received. mIsScreenOn= false
+04-26 16:59:21.030 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:21.040 D/MOBILEBACKUP_SRV(  587): <!>com.voxmobili.service.impl.ScreenSaverManager 95<!> ScreenSaverManager - onReceive Intent { act=android.intent.action.SCREEN_OFF flg=0x40000000 }
+04-26 16:59:21.040 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:21.150 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1264128
+04-26 16:59:21.290 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1264270
+04-26 16:59:21.440 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1264420
+04-26 16:59:21.580 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1264559
+04-26 16:59:21.720 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1264700
+04-26 16:59:22.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1265502
+04-26 16:59:22.660 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1265642
+04-26 16:59:22.800 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1265783
+04-26 16:59:22.940 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1265924
+04-26 16:59:23.090 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266064
+04-26 16:59:23.230 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266204
+04-26 16:59:23.370 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266345
+04-26 16:59:23.510 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266486
+04-26 16:59:23.650 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266625
+04-26 16:59:23.790 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266766
+04-26 16:59:23.930 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1266907
+04-26 16:59:24.730 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1267709
+04-26 16:59:24.870 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1267851
+04-26 16:59:25.010 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1267991
+04-26 16:59:25.150 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268132
+04-26 16:59:25.300 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268273
+04-26 16:59:25.440 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268414
+04-26 16:59:25.580 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268555
+04-26 16:59:25.720 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268695
+04-26 16:59:25.850 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268834
+04-26 16:59:25.990 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1268974
+04-26 16:59:26.130 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1269116
+04-26 16:59:26.940 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1269919
+04-26 16:59:27.080 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270059
+04-26 16:59:27.220 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270200
+04-26 16:59:27.360 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270341
+04-26 16:59:27.500 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270482
+04-26 16:59:27.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270623
+04-26 16:59:27.790 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270764
+04-26 16:59:27.930 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1270905
+04-26 16:59:28.070 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1271045
+04-26 16:59:28.210 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1271186
+04-26 16:59:28.350 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1271326
+04-26 16:59:29.150 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272126
+04-26 16:59:29.290 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272267
+04-26 16:59:29.430 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272407
+04-26 16:59:29.570 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272547
+04-26 16:59:29.710 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272688
+04-26 16:59:29.850 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272829
+04-26 16:59:29.990 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1272970
+04-26 16:59:30.130 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1273110
+04-26 16:59:30.270 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1273252
+04-26 16:59:30.410 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1273392
+04-26 16:59:30.550 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1273533
+04-26 16:59:31.360 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1274335
+04-26 16:59:31.500 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1274476
+04-26 16:59:31.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1274616
+04-26 16:59:31.780 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1274757
+04-26 16:59:31.920 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1274899
+04-26 16:59:32.060 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275039
+04-26 16:59:32.200 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275180
+04-26 16:59:32.340 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275322
+04-26 16:59:32.480 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275462
+04-26 16:59:32.620 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275602
+04-26 16:59:32.760 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1275743
+04-26 16:59:33.570 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1276545
+04-26 16:59:33.710 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1276685
+04-26 16:59:33.850 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1276826
+04-26 16:59:33.990 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1276966
+04-26 16:59:34.130 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277107
+04-26 16:59:34.270 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277248
+04-26 16:59:34.410 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277388
+04-26 16:59:34.550 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277528
+04-26 16:59:34.690 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277669
+04-26 16:59:34.830 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277810
+04-26 16:59:34.970 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1277950
+04-26 16:59:35.770 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1278751
+04-26 16:59:35.910 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1278891
+04-26 16:59:36.050 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279032
+04-26 16:59:36.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279173
+04-26 16:59:36.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279314
+04-26 16:59:36.480 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279454
+04-26 16:59:36.620 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279595
+04-26 16:59:36.760 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279735
+04-26 16:59:36.900 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1279876
+04-26 16:59:37.040 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1280017
+04-26 16:59:37.180 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1280158
+04-26 16:59:37.980 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1280959
+04-26 16:59:38.120 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281100
+04-26 16:59:38.260 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281240
+04-26 16:59:38.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281381
+04-26 16:59:38.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281522
+04-26 16:59:38.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281663
+04-26 16:59:38.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281804
+04-26 16:59:38.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1281944
+04-26 16:59:39.110 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1282085
+04-26 16:59:39.250 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1282226
+04-26 16:59:39.390 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1282367
+04-26 16:59:40.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283168
+04-26 16:59:40.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283309
+04-26 16:59:40.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283450
+04-26 16:59:40.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283591
+04-26 16:59:40.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283731
+04-26 16:59:40.890 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1283872
+04-26 16:59:41.030 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1284013
+04-26 16:59:41.180 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1284156
+04-26 16:59:41.320 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1284296
+04-26 16:59:41.460 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1284437
+04-26 16:59:41.600 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1284578
+04-26 16:59:42.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1285379
+04-26 16:59:42.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1285520
+04-26 16:59:42.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1285660
+04-26 16:59:42.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1285799
+04-26 16:59:42.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1285941
+04-26 16:59:43.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286082
+04-26 16:59:43.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286222
+04-26 16:59:43.380 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286363
+04-26 16:59:43.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286504
+04-26 16:59:43.670 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286644
+04-26 16:59:43.810 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1286785
+04-26 16:59:44.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1287586
+04-26 16:59:44.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1287726
+04-26 16:59:44.890 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1287867
+04-26 16:59:45.030 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288008
+04-26 16:59:45.170 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288149
+04-26 16:59:45.310 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288289
+04-26 16:59:45.450 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288430
+04-26 16:59:45.590 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288570
+04-26 16:59:45.730 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288711
+04-26 16:59:45.870 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288851
+04-26 16:59:46.010 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1288992
+04-26 16:59:46.810 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1289793
+04-26 16:59:46.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1289934
+04-26 16:59:47.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290076
+04-26 16:59:47.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290216
+04-26 16:59:47.380 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290357
+04-26 16:59:47.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290497
+04-26 16:59:47.660 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290638
+04-26 16:59:47.800 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290778
+04-26 16:59:47.940 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1290920
+04-26 16:59:48.080 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1291061
+04-26 16:59:48.230 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1291205
+04-26 16:59:49.030 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292007
+04-26 16:59:49.170 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292148
+04-26 16:59:49.310 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292288
+04-26 16:59:49.450 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292430
+04-26 16:59:49.590 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292570
+04-26 16:59:49.730 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292711
+04-26 16:59:49.870 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292852
+04-26 16:59:50.010 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1292992
+04-26 16:59:50.150 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1293132
+04-26 16:59:50.290 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1293273
+04-26 16:59:50.430 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1293414
+04-26 16:59:51.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294215
+04-26 16:59:51.380 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294355
+04-26 16:59:51.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294497
+04-26 16:59:51.590 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 746<!> onWakeKeyWhenKeyguardShowing(26)
+04-26 16:59:51.590 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 608<!> wakeWhenReadyLocked(26)
+04-26 16:59:51.590 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1087<!> handleWakeWhenReady(26)
+04-26 16:59:51.590 D/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 494<!> onWakeKey
+04-26 16:59:51.590 I/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 495<!> wakeWhenReadyTq simState=READY
+04-26 16:59:51.590 D/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 502<!> poking wake lock immediately
+04-26 16:59:51.590 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 790<!> pokeWakelock(5000)
+04-26 16:59:51.590 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:59:51.590 D/PowerManagerService(  209): acquireWakeLock flags=0x1000001a tag=keyguard
+04-26 16:59:51.590 D/PowerManagerService(  209): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+04-26 16:59:51.590 D/PowerManagerService(  209): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x0
+04-26 16:59:51.590 D/PowerManagerService(  209): setPowerState: mPowerState=0x0 newState=0x7 noChangeLights=false reason=3
+04-26 16:59:51.590 D/PowerManagerService(  209): setPowerState: mPowerState=0 newState=7 noChangeLights=false
+04-26 16:59:51.590 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:59:51.590 D/PowerManagerService(  209):   oldScreenBright=false newScreenBright=true
+04-26 16:59:51.590 D/PowerManagerService(  209):   oldButtonBright=false newButtonBright=true
+04-26 16:59:51.590 D/PowerManagerService(  209):   oldScreenOn=false newScreenOn=true
+04-26 16:59:51.590 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:59:51.590 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=0.0 target=102 targetValue=102 delta=6.8 nominalCurrentValue=0
+04-26 16:59:51.590 I/PowerManagerService(  209): scheduling light animator
+04-26 16:59:51.590 D/PowerManagerService(  209): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:59:51.590 I/PowerManagerService(  209): Setting brightess on 102: 4
+04-26 16:59:51.590 D/PowerManagerService(  209): - turning screen on...  mPreventScreenOn = false
+04-26 16:59:51.590 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:51.590 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:59:51.600 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 353<!> onScreenTurnedOn, seq = 4
+04-26 16:59:51.600 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 596<!> notifyScreenOnLocked
+04-26 16:59:51.600 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+04-26 16:59:51.600 D/PowerManagerService(  209): setKeyboardVisibility: false
+04-26 16:59:51.610 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1149<!> handleNotifyScreenOn
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1131<!> simState(READY)
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1166<!> updateLayout: status=Normal
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1670<!> >> refreshMusicPlayerDisplay() ----------------------
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1685<!>    music play info = null
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1686<!>    has music play info = false
+04-26 16:59:51.610 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1687<!>    has music play status = stoped
+04-26 16:59:51.610 D/PowerManagerService(  209): mBroadcastWakeLock=UnsynchronizedWakeLock(mFlags=0x1 mCount=1 mHeld=true)
+04-26 16:59:51.610 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:59:51.620 V/DATA    (  293): <!>com.android.internal.telephony.MMDataConnectionTracker 1982<!> [DCT] intent received :android.intent.action.SCREEN_ON
+04-26 16:59:51.620 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.630 D/LGE_data(  293): <!>com.android.internal.telephony.MMDataConnectionTracker$1 296<!> ACTION_SCREEN_ON received. mIsScreenOn= true
+04-26 16:59:51.630 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.630 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:59:51.640 D/MOBILEBACKUP_SRV(  587): <!>com.voxmobili.service.impl.ScreenSaverManager 95<!> ScreenSaverManager - onReceive Intent { act=android.intent.action.SCREEN_ON flg=0x40000000 }
+04-26 16:59:51.640 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.640 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:59:51.650 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.650 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:51.650 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.650 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.660 I/Lockscreen(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1425<!> onResume isScreenOn true
+04-26 16:59:51.660 D/PowerManagerService(  209): Animating curIntValue=34: 2
+04-26 16:59:51.660 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.670 D/DATA    (  293): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] pollstate() : reason = data network state changed
+04-26 16:59:51.670 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.680 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.680 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:59:51.680 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:51.690 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294671
+04-26 16:59:51.690 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:59:51.690 I/TelephonyRegistry(  209): notifyServiceState: 0 home Testcard LGE 45000  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false
+04-26 16:59:51.700 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:51.710 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:59:51.720 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:51.720 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:59:51.730 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings$15 286<!> mPhoneStateHandler:handleMessage)
+04-26 16:59:51.730 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 884<!> onAirplaneModeChanged:: !!!Disable
+04-26 16:59:51.730 D/DATA    (  293): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] Poll ServiceState done: oldSS=[0 home null null null  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[0 home null null null  EDGE CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false]
+04-26 16:59:51.730 D/NotificationMgr(  293): <!>com.android.phone.NotificationMgr 1154<!> updateNetworkSelection()...state = 0 new network 
+04-26 16:59:51.730 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:59:51.730 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:59:51.730 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:59:51.740 V/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 649<!> setBTButton: BT Set DISABLED
+04-26 16:59:51.740 D/QuickSettings(  274): <!>com.android.systemui.statusbar.QuickSettings 605<!> WifiManager.WIFI_STATE_CHANGED_ACTION
+04-26 16:59:51.740 D/PowerManagerService(  209): Animating curIntValue=68: 2
+04-26 16:59:51.750 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1652<!>     ### music artist = null
+04-26 16:59:51.750 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1653<!>     ### music track = null
+04-26 16:59:51.750 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1654<!>     ### music state = stop
+04-26 16:59:51.760 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1652<!>     ### music artist = null
+04-26 16:59:51.760 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1653<!>     ### music track = null
+04-26 16:59:51.760 D/Andy_LockScreen2(  209): <!>com.android.internal.policy.impl.Andy_LockScreen2 1654<!>     ### music state = stop
+04-26 16:59:51.760 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:59:51.770 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294751
+04-26 16:59:51.770 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:59:51.790 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:59:51.810 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:59:51.820 D/PowerManagerService(  209): Animating curIntValue=102: 2
+04-26 16:59:51.830 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=StartingAlertService
+04-26 16:59:51.910 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1294896
+04-26 16:59:52.060 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295037
+04-26 16:59:52.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295176
+04-26 16:59:52.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295316
+04-26 16:59:52.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295456
+04-26 16:59:52.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295596
+04-26 16:59:52.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1295737
+04-26 16:59:53.190 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:53.190 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:53.190 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+04-26 16:59:53.190 I/Flex    (  274): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+04-26 16:59:53.190 D/StatusBarPolicy(  274): [BRIGHTHY] 0. mDataNetType: 2
+04-26 16:59:53.190 D/StatusBarPolicy(  274): [BRIGHTHY] curNetwork=45000 curHPLMN=45000
+04-26 16:59:53.560 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1296538
+04-26 16:59:53.700 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1296679
+04-26 16:59:53.840 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1296819
+04-26 16:59:53.980 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1296959
+04-26 16:59:54.120 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297100
+04-26 16:59:54.260 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297240
+04-26 16:59:54.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297380
+04-26 16:59:54.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297521
+04-26 16:59:54.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297661
+04-26 16:59:54.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297801
+04-26 16:59:54.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1297942
+04-26 16:59:55.770 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1298745
+04-26 16:59:55.910 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1298886
+04-26 16:59:56.050 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299027
+04-26 16:59:56.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299169
+04-26 16:59:56.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299309
+04-26 16:59:56.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299449
+04-26 16:59:56.610 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 940<!> handleTimeout
+04-26 16:59:56.610 D/PowerManagerService(  209): releaseWakeLock flags=0x1000001a tag=keyguard
+04-26 16:59:56.610 D/PowerManagerService(  209): setPowerState: mPowerState=0x7 newState=0x0 noChangeLights=false reason=3
+04-26 16:59:56.610 D/PowerManagerService(  209): setPowerState: mPowerState=7 newState=0 noChangeLights=false
+04-26 16:59:56.610 D/PowerManagerService(  209):   oldKeyboardBright=false newKeyboardBright=false
+04-26 16:59:56.610 D/PowerManagerService(  209):   oldScreenBright=true newScreenBright=false
+04-26 16:59:56.610 D/PowerManagerService(  209):   oldButtonBright=true newButtonBright=false
+04-26 16:59:56.610 D/PowerManagerService(  209):   oldScreenOn=true newScreenOn=false
+04-26 16:59:56.610 D/PowerManagerService(  209):   oldBatteryLow=false newBatteryLow=false
+04-26 16:59:56.610 I/PowerManagerService(  209): setTargetLocked mask=2 curValue=102.0 target=0 targetValue=0 delta=-6.8 nominalCurrentValue=102
+04-26 16:59:56.610 I/PowerManagerService(  209): scheduling light animator
+04-26 16:59:56.610 D/PowerManagerService(  209): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x7 realDifference=0x7 forceState=0x0
+04-26 16:59:56.610 I/PowerManagerService(  209): Setting brightess off: 4
+04-26 16:59:56.620 D/PowerManagerService(  209): Animating curIntValue=95: 2
+04-26 16:59:56.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299604
+04-26 16:59:56.640 D/PowerManagerService(  209): Animating curIntValue=88: 2
+04-26 16:59:56.650 D/PowerManagerService(  209): Animating curIntValue=81: 2
+04-26 16:59:56.660 D/PowerManagerService(  209): Animating curIntValue=74: 2
+04-26 16:59:56.680 D/PowerManagerService(  209): Animating curIntValue=67: 2
+04-26 16:59:56.700 D/PowerManagerService(  209): Animating curIntValue=61: 2
+04-26 16:59:56.710 D/PowerManagerService(  209): Animating curIntValue=54: 2
+04-26 16:59:56.730 D/PowerManagerService(  209): Animating curIntValue=47: 2
+04-26 16:59:56.740 D/PowerManagerService(  209): Animating curIntValue=40: 2
+04-26 16:59:56.770 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299745
+04-26 16:59:56.770 D/PowerManagerService(  209): Animating curIntValue=33: 2
+04-26 16:59:56.780 D/PowerManagerService(  209): Animating curIntValue=27: 2
+04-26 16:59:56.800 D/PowerManagerService(  209): Animating curIntValue=20: 2
+04-26 16:59:56.820 D/PowerManagerService(  209): Animating curIntValue=13: 2
+04-26 16:59:56.840 D/PowerManagerService(  209): Animating curIntValue=6: 2
+04-26 16:59:56.850 D/PowerManagerService(  209): Animating curIntValue=0: 2
+04-26 16:59:56.860 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:56.870 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 312<!> onScreenTurnedOff(3)
+04-26 16:59:56.870 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 586<!> notifyScreenOffLocked
+04-26 16:59:56.870 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 565<!> resetStateLocked
+04-26 16:59:56.880 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1138<!> handleNotifyScreenOff
+04-26 16:59:56.880 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 1115<!> handleReset
+04-26 16:59:56.900 D/KeyguardViewMediator(  209): <!>com.android.internal.policy.impl.KeyguardViewMediator 460<!> setHidden false
+04-26 16:59:56.900 D/PowerManagerService(  209): setScreenBrightnessOverride -1
+04-26 16:59:56.900 D/PowerManagerService(  209): setButtonBrightnessOverride -1
+04-26 16:59:56.900 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:59:56.900 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+04-26 16:59:56.910 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=RILJ
+04-26 16:59:56.920 V/DATA    (  293): <!>com.android.internal.telephony.MMDataConnectionTracker 1982<!> [DCT] intent received :android.intent.action.SCREEN_OFF
+04-26 16:59:56.920 D/LGE_data(  293): <!>com.android.internal.telephony.MMDataConnectionTracker$1 302<!> ACTION_SCREEN_OFF received. mIsScreenOn= false
+04-26 16:59:56.920 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=RILJ
+04-26 16:59:56.930 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1299910
+04-26 16:59:56.940 D/MOBILEBACKUP_SRV(  587): <!>com.voxmobili.service.impl.ScreenSaverManager 95<!> ScreenSaverManager - onReceive Intent { act=android.intent.action.SCREEN_OFF flg=0x40000000 }
+04-26 16:59:56.940 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=sleep_broadcast
+04-26 16:59:57.070 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1300052
+04-26 16:59:57.210 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1300193
+04-26 16:59:58.020 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1300995
+04-26 16:59:58.160 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301135
+04-26 16:59:58.300 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301276
+04-26 16:59:58.440 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301417
+04-26 16:59:58.580 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301557
+04-26 16:59:58.720 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301697
+04-26 16:59:58.860 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301837
+04-26 16:59:59.000 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1301978
+04-26 16:59:59.140 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1302120
+04-26 16:59:59.280 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1302260
+04-26 16:59:59.420 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1302400
+04-26 17:00:00.010 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 17:00:00.070 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303051
+04-26 17:00:00.070 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 17:00:00.080 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303061
+04-26 17:00:00.220 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303200
+04-26 17:00:00.360 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303341
+04-26 17:00:00.500 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303481
+04-26 17:00:00.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303623
+04-26 17:00:00.790 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303764
+04-26 17:00:00.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1303906
+04-26 17:00:01.060 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1304044
+04-26 17:00:01.200 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1304185
+04-26 17:00:01.350 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1304327
+04-26 17:00:01.490 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1304467
+04-26 17:00:01.630 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1304611
+04-26 17:00:02.430 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1305412
+04-26 17:00:02.570 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1305553
+04-26 17:00:02.710 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1305691
+04-26 17:00:02.850 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1305831
+04-26 17:00:02.990 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1305973
+04-26 17:00:03.140 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306114
+04-26 17:00:03.280 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306255
+04-26 17:00:03.420 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306396
+04-26 17:00:03.560 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306537
+04-26 17:00:03.700 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306677
+04-26 17:00:03.840 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1306817
+04-26 17:00:04.640 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1307619
+04-26 17:00:04.780 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1307759
+04-26 17:00:04.920 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1307900
+04-26 17:00:05.060 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308040
+04-26 17:00:05.200 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308180
+04-26 17:00:05.340 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308320
+04-26 17:00:05.480 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308461
+04-26 17:00:05.620 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308602
+04-26 17:00:05.760 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308742
+04-26 17:00:05.900 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1308883
+04-26 17:00:06.040 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1309023
+04-26 17:00:06.850 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1309825
+04-26 17:00:06.990 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1309965
+04-26 17:00:07.130 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310106
+04-26 17:00:07.270 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310245
+04-26 17:00:07.410 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310386
+04-26 17:00:07.550 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310527
+04-26 17:00:07.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310667
+04-26 17:00:07.830 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310809
+04-26 17:00:07.970 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1310950
+04-26 17:00:08.110 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1311091
+04-26 17:00:08.250 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1311231
+04-26 17:00:09.050 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312031
+04-26 17:00:09.190 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312172
+04-26 17:00:09.330 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312313
+04-26 17:00:09.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312454
+04-26 17:00:09.620 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312594
+04-26 17:00:09.760 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312735
+04-26 17:00:09.840 D/SntpClient(  209): <!>android.net.SntpClient 124<!> request time failed: java.net.UnknownHostException: xtra1.gpsonextra.net
+04-26 17:00:09.840 D/NetdConnector(  209): SND -> {interface readrxcounter rmnet0} {null}
+04-26 17:00:09.850 D/NetdConnector(  209): RCV <- {216 0}
+04-26 17:00:09.850 D/PowerManagerService(  209): acquireWakeLock flags=0x1 tag=AlarmManager
+04-26 17:00:09.860 D/PowerManagerService(  209): releaseWakeLock flags=0x1 tag=AlarmManager
+04-26 17:00:09.870 D/NetdConnector(  209): RSP <- {216 0}
+04-26 17:00:09.870 D/NetdConnector(  209): SND -> {interface readtxcounter rmnet0} {null}
+04-26 17:00:09.880 D/NetdConnector(  209): RCV <- {217 0}
+04-26 17:00:09.890 D/SntpClient(  209): <!>android.net.SntpClient 124<!> request time failed: java.net.UnknownHostException: xtra1.gpsonextra.net
+04-26 17:00:09.890 D/SntpClient(  209): <!>android.net.SntpClient 124<!> request time failed: java.net.UnknownHostException: xtra1.gpsonextra.net
+04-26 17:00:09.890 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1312874
+04-26 17:00:09.890 D/NetdConnector(  209): RSP <- {217 0}
+04-26 17:00:10.040 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1313016
+04-26 17:00:10.180 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1313157
+04-26 17:00:10.320 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1313298
+04-26 17:00:10.460 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1313438
+04-26 17:00:11.260 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314240
+04-26 17:00:11.400 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314381
+04-26 17:00:11.540 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314522
+04-26 17:00:11.680 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314662
+04-26 17:00:11.820 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314802
+04-26 17:00:11.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1314943
+04-26 17:00:12.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1315083
+04-26 17:00:12.250 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1315224
+04-26 17:00:12.390 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1315365
+04-26 17:00:12.530 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1315506
+04-26 17:00:12.660 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1315644
+04-26 17:00:13.470 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1316446
+04-26 17:00:13.610 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1316587
+04-26 17:00:13.750 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1316728
+04-26 17:00:13.890 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1316868
+04-26 17:00:14.030 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317008
+04-26 17:00:14.160 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317147
+04-26 17:00:14.310 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317289
+04-26 17:00:14.450 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317430
+04-26 17:00:14.590 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317569
+04-26 17:00:14.730 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317712
+04-26 17:00:14.870 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1317850
+04-26 17:00:15.670 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1318652
+04-26 17:00:15.810 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1318793
+04-26 17:00:15.960 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1318935
+04-26 17:00:16.100 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1319075
+04-26 17:00:16.240 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1319216
+04-26 17:00:16.380 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1319357
+04-26 17:00:16.520 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1319497
+04-26 17:00:16.660 V/LockPatternKeyguardView(  209): <!>com.android.internal.policy.impl.LockPatternKeyguardView 428<!> *** dispatchDraw() time: 1319637

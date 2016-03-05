@@ -1,0 +1,77 @@
+<4>[ 2011.687011] ### apds9900_interrupt
+<4>[ 2011.688415] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2011.688507] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2011.689361] apds9900 [LUX] iac = 41
+<4>[ 2011.689422] apds9900 [LUX] als_data = 57
+<4>[ 2012.467590] ### apds9900_interrupt
+<4>[ 2012.468963] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2012.469085] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2012.469940] apds9900 [LUX] iac = 148
+<4>[ 2012.470031] apds9900 [LUX] als_data = 206
+<4>[ 2012.804077] ### apds9900_interrupt
+<4>[ 2012.805450] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2012.805572] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2012.806427] apds9900 [LUX] iac = 83
+<4>[ 2012.806488] apds9900 [LUX] als_data = 115
+<4>[ 2013.694335] ### apds9900_interrupt
+<4>[ 2013.695739] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2013.695831] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2013.696685] apds9900 [LUX] iac = 274
+<4>[ 2013.696746] apds9900 [LUX] als_data = 381
+<4>[ 2014.695068] ### apds9900_interrupt
+<4>[ 2014.696441] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2014.696563] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2014.697418] apds9900 [LUX] iac = 55
+<4>[ 2014.697479] apds9900 [LUX] als_data = 76
+<4>[ 2015.031402] ### apds9900_interrupt
+<4>[ 2015.032806] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2015.032928] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2015.033782] apds9900 [LUX] iac = 77
+<4>[ 2015.033874] apds9900 [LUX] als_data = 107
+<6>[ 2015.144531] aat3369_bl:sld_input_event: slide open detected
+<7>[ 2015.154754] <6>[sub]mcs6000_sld_input_event: start! 
+<7>[ 2015.154876] [sub]slide open detected
+<7>[ 2015.154937] [sub]mcs6000_ts_onoff start 
+<7>[ 2015.155029] [sub]mcs6000_ts_onoff: irq enable
+<7>[ 2015.155120] [sub]mcs6000_ts_onoff finish 
+<4>[ 2015.589080] ### apds9900_interrupt
+<4>[ 2015.590484] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2015.590667] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2015.591522] apds9900 [LUX] iac = 63
+<4>[ 2015.591613] apds9900 [LUX] als_data = 87
+<4>[ 2015.925354] ### apds9900_interrupt
+<4>[ 2015.926727] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2015.926849] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2015.927703] apds9900 [LUX] iac = 161
+<4>[ 2015.927764] apds9900 [LUX] als_data = 224
+<4>[ 2016.261535] ### apds9900_interrupt
+<4>[ 2016.262847] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2016.262878] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2016.263610] apds9900 [LUX] iac = 232
+<4>[ 2016.263641] apds9900 [LUX] als_data = 323
+<4>[ 2016.818969] ### apds9900_interrupt
+<4>[ 2016.820343] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2016.820495] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2016.823089] apds9900 [LUX] iac = 305
+<4>[ 2016.823242] apds9900 [LUX] als_data = 424
+<4>[ 2017.715545] ### apds9900_interrupt
+<4>[ 2017.716918] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2017.717041] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2017.717895] apds9900 [LUX] iac = 247
+<4>[ 2017.717956] apds9900 [LUX] als_data = 344
+<4>[ 2018.716369] ### apds9900_interrupt
+<4>[ 2018.717742] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2018.717834] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2018.718688] apds9900 [LUX] iac = 217
+<4>[ 2018.718780] apds9900 [LUX] als_data = 302
+<4>[ 2019.163238] ### apds9900_interrupt
+<4>[ 2019.164611] apds9900_event_work() ### pdataL = 0, pdataH = 0 
+<4>[ 2019.164733] apds9900_event_work() status = 51(33), data->enable = 1f 
+<4>[ 2019.165588] apds9900 [LUX] iac = 359
+<4>[ 2019.165649] apds9900 [LUX] als_data = 500
+<6>[ 2021.330535] aat3369_bl:subleds_brightness_set: [set 97 scaled to 12 current is 12]
+<6>[ 2021.494567] aat3369_bl:subleds_brightness_set: [set 98 scaled to 12 current is 12]
+<6>[ 2021.654327] aat3369_bl:subleds_brightness_set: [set 99 scaled to 12 current is 12]
+<6>[ 2021.817291] aat3369_bl:subleds_brightness_set: [set 100 scaled to 12 current is 12]
+<6>[ 2021.977996] aat3369_bl:subleds_brightness_set: [set 101 scaled to 12 current is 12]
+<6>[ 2022.138397] aat3369_bl:subleds_brightness_set: [set 102 scaled to 13 current is 12]

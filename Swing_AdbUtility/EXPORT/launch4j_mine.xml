@@ -1,0 +1,41 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Project\Android\AdbUtility\EXPORT\AdbUtility.jar</jar>
+  <outfile>D:\Project\Android\AdbUtility\EXPORT\AdbUtility.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>D:\Project\Android\AdbUtility\EXPORT\warning.ico</icon>
+  <jre>
+    <path></path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.7.0.0</fileVersion>
+    <txtFileVersion>1.7 by suker</txtFileVersion>
+    <fileDescription>adb utility tools create by suker</fileDescription>
+    <copyright>C bal left</copyright>
+    <productVersion>0.0.0.0</productVersion>
+    <txtProductVersion>0</txtProductVersion>
+    <productName>0</productName>
+    <companyName></companyName>
+    <internalName>0</internalName>
+    <originalFilename>AdbUtility.exe</originalFilename>
+  </versionInfo>
+  <messages>
+    <startupErr>An error occurred while starting the application.</startupErr>
+    <bundledJreErr>This application was configured to use a bundled Java Runtime Environment but the runtime is missing or corrupted.</bundledJreErr>
+    <jreVersionErr>This application requires a Java Runtime Environment</jreVersionErr>
+    <launcherErr>The registry refers to a nonexistent Java Runtime Environment installation or the runtime is corrupted.</launcherErr>
+    <instanceAlreadyExistsMsg>An application instance is already running.</instanceAlreadyExistsMsg>
+  </messages>
+</launch4jConfig>

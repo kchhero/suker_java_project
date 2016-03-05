@@ -1,0 +1,107 @@
+개발 팁
+http://blog.naver.com/sobakr?Redirect=Log&logNo=60111552682
+sender의 package name을 action name과 동일하게
+xml resource 소문자로만
+content uri 소문자로만
+http://www.jopenbusiness.com/mediawiki/index.php/Android_SDK
+
+DEBUGGING
+http://ecogeo.tistory.com/286
+/data/anr/traces.txt ==> error log from DVM
+
+JNI
+http://blog.naver.com/no1ordie?Redirect=Log&logNo=50026139753
+
+Git
+http://android.git.kernel.org/?p=platform/system/core.git;a=tree
+
+SharedPreferences
+http://thedevelopersinfo.com/2009/11/25/getting-sharedpreferences-from-other-application-in-android/
+
+Android Best Practices and Notes
+원문: http://asantoso.wordpress.com/2010/07/19/android-best-practices/
+
+notification
+http://loadtodream.blog.me/30093256844
+http://androidhuman.tistory.com/273
+
+Activity Flags
+http://surprisen.egloos.com/2511530
+
+content provider
+http://sgap.springnote.com/pages/5273787
+
+cursor query 관련
+http://ecogeo.tistory.com/category/Android
+
+memory 관련
+http://ecogeo.tistory.com/255
+http://huewu.blog.me/110092658919
+
+http://underclub.tistory.com/289
+
+tab
+http://mainia.tistory.com/576
+
+timer
+http://infodev.tistory.com/126
+http://www.androidpub.com/4374
+http://www.cyworld.com/kenur/3735816
+
+task
+http://liebus.tistory.com/72?srchid=BR1http://liebus.tistory.com/72
+http://blog.naver.com/huewu/110089551997
+
+permission
+http://blog.naver.com/lby2514?Redirect=Log&logNo=120114561120
+
+receiver
+http://blog.naver.com/macyoo?Redirect=Log&logNo=100103991504
+http://blog.naver.com/PostView.nhn?blogId=kippee&logNo=130045027518
+
+
+app,framework build
+http://blog.naver.com/belfe7?Redirect=Log&logNo=30089923939
+
+observer pattern
+http://devyongsik.tistory.com/188
+
+screen size
+http://developer.android.com/guide/practices/screens_support.html
+
+linux server관련
+http://blog.naver.com/hjunki?Redirect=Log&logNo=100094180128
+
+
+안드로이드에 관련해서 이런 저런 블로그를 헤메이고 다니는 와중에 안드로이드 어플리케이션 개발에 유용한 팁들을 짧고 간결하면 정리한
+내용이 있어서 간단히 번역하고, 몇 가지 첨언을 덧 붙여 봤습니다.
+
+어플리케이션 구성요소간에 데이터를 주고받을 경우, Extra 를 전달하기 보다는 Parcelable 을 사용하라.
+코드는 조금 더 길어지지만, 유지하고 쉽고 이해하기 쉽다. (주> Parcelabele 에 관해서는 이 블로그 포스트를 살펴보시면 도움이 됩니다.)
+
+UI와 관련된 코드를 제외한 다른 코드는 UI 스레드(메인스레드)가 아닌 별개의 스레드에서 동작시켜야한다.
+모든 어플리케이션은 최소한 두 개 이상의 스레드(메인 스레드를 포함하여)를 가져야 한다.
+(주>ANR 이 발생하는 원인의 80%는 바로 이러한 작업을 제대로 수행하지 않아서 그렇습니다.)
+
+오브젝트 캐쉬를 적극 활용하라. (Object Pool 패턴을 사용할 것을 권장한다.)
+(주>안드로이드 플랫폼의 GC가 그다지 훌륭하지 않은점을 생각한다면, 짧은 수명을 갖는 오브젝트의 사용은 최소화 되면 될 수록 좋습니다.
+이 블로그 포스트의 내용을 참고하셔도 좋습니다.)
+
+List Adapter 내부에서는 오랜 시간이 소요되는 연산을 수행해서는 안된다.
+
+setTag 메서드의 유용함을 깨달아라. 리소스 ID 를 사용하는 이점을 간과하지 말아라.
+(주>findViewById 류의 메서드의 성능이 그다지 뛰어난 편이 아닙니다. setTag 와 함게 널리 알려져 있는 ViewHolder
+패턴등을 이용하면 성능 상의 이점을 얻을 수 있습니다.)
+
+어플리케이션 내부에서 메세지를 주고 받을 경우, Intent 와 BroadcastReceiver 를 활용하라.
+
+가능하면 Soft Reference 를 사용하라.
+특히 메모리를 많이 사용하는 경우에는 더욱 중요하다. (주> Soft Reference 를 사용하는 방법을 익혀둔다면,
+손쉽게 효율적인 Object Pool 을 구현할 수 있습니다. 적은 노력으로 큰 효과를 볼 수 있는 방법이지요.)
+
+Static 멤버 변수를 사용할 때는 주의를 기울여야 한다.
+제대로 처리되지 않으면 메모리 릭을 일으킨다.
+(주> 저는 가능한 Static 멤버를 사용하지 않는 편이 좋다고 생각합니다. 어플리케이션이 꼬이게 만드는 만병의 근원입니다.)
+
+BroadcastReceiver 는 메인 스레드에서 작동한다. (주>ANR 이 발생하는 나머지 20%의 원인입니다.)
+코딩하기에 앞어서 UX 와 UI 를 잘 설계하라.

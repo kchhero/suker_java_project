@@ -1,0 +1,2 @@
+Result:49 Raw:7253 cpu0-1 thermal : 60035
+ cpu2-3 thermal : 66

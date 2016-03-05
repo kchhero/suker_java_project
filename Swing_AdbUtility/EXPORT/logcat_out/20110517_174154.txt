@@ -1,0 +1,1413 @@
+--------- beginning of /dev/log/main
+05-17 14:52:41.346 E/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1739<!> [BTUI] ### LockScreen2 : isOpen(true)
+05-17 14:52:41.346 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 14:52:41.346 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 14:52:41.386 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1177<!> updateLayout: status=Airplane
+05-17 14:52:41.396 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1681<!> >> refreshMusicPlayerDisplay() ----------------------
+05-17 14:52:41.396 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1696<!>    music play info = null
+05-17 14:52:41.396 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1697<!>    has music play info = false
+05-17 14:52:41.396 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1698<!>    has music play status = stoped
+05-17 14:52:41.396 I/Lockscreen(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1441<!> onResume isScreenOn false
+05-17 14:52:41.406 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 14:52:41.406 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 14:52:41.406 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 14:52:41.406 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 14:52:41.406 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 14:52:41.476 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 14:52:41.476 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 14:52:41.476 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 14:52:41.526 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 14:52:50.385 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:53:10.314 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:53:40.223 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:53:50.193 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:54:10.143 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:54:15.118 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:54:38.020 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305609877890 (log), 1305609877890 (data)
+05-17 14:54:40.052 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:54:50.022 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:55:34.895 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:55:39.870 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:57:04.623 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:57:09.598 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:58:04.441 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:58:24.381 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:59:04.260 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:59:09.255 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:59:14.239 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 14:59:19.224 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:00:14.058 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:00:19.043 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:00:58.942 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:01:13.886 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:02:08.720 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:02:13.714 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:03:58.397 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:03:58.497 E/Tethering(  214): <!>com.android.server.connectivity.Tethering 314<!> active iface (usb0) reported as added, ignoring
+05-17 15:04:03.381 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:04:33.291 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:04:48.255 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:03.018 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:08.023 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:37.922 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:42.907 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:52.877 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:06:57.872 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:13:36.681 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:13:51.645 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:14:21.555 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:14:41.494 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:14:51.474 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:15:06.418 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:16:16.216 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:16:31.171 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:17:30.989 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:17:35.974 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:17:40.959 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:17:50.929 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:18:25.833 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:18:30.808 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:19:00.727 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:19:10.707 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:20:25.480 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:20:35.439 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:21:50.222 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:22:10.172 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:22:20.131 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:22:40.071 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:23:14.975 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:23:19.970 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:23:24.945 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:23:54.854 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:24:09.808 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:24:14.803 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:24:38.156 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305611678027 (log), 1305611678027 (data)
+05-17 15:24:44.702 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:25:04.652 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:28:04.107 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:28:14.087 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:28:29.041 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:28:39.011 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:29:03.945 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:29:13.915 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:29:33.855 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:29:38.829 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:32:08.395 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:32:13.390 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:32:48.274 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:32:58.254 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:33:43.108 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:34:03.047 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:34:37.961 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:35:17.840 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:38:02.351 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:38:22.280 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:38:57.184 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:39:12.149 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:39:27.093 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:39:32.078 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:41:46.680 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:42:11.614 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:42:41.523 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:42:51.493 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:42:56.468 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:43:06.447 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:44:16.245 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:44:36.185 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:44:51.130 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:45:26.034 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:45:45.973 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:46:15.882 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:46:42.348 I/ContactsProvider(  838): <!>com.android.providers.contacts.ContactsProvider2 5178<!> ^^^^^^^^^ query: content://com.android.contacts/contacts
+05-17 15:46:42.348 I/ContactsProvider(  838): <!>com.android.providers.contacts.ContactsProvider2 5234<!> ^^^^^^^^^ query match : 1000
+05-17 15:46:42.358 D/Swype   (  288): <!>com.swype.android.inputmethod.PhonebookProcessor 146<!> entries processed: 0
+05-17 15:46:42.438 D/Swype   (  288): <!>com.swype.android.inputmethod.PhonebookProcessor 178<!> user words processed 0
+05-17 15:49:55.246 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:50:00.211 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:50:20.161 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:50:25.155 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:50:50.080 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:50:55.065 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:51:44.913 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:51:54.883 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:53:14.641 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:53:19.636 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:54:19.464 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:54:38.272 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305613478161 (log), 1305613478161 (data)
+05-17 15:54:44.378 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:57:23.914 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:57:43.853 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:58:03.793 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:58:18.747 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:59:03.611 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:59:08.606 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:59:13.581 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 15:59:18.576 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+--------- beginning of /dev/log/system
+05-17 15:59:20.698 D/NetdConnector(  214): RCV <- {216 0}
+05-17 15:59:20.698 D/NetdConnector(  214): RSP <- {216 0}
+05-17 15:59:20.708 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 15:59:20.708 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 15:59:20.728 D/NetdConnector(  214): RCV <- {217 0}
+05-17 15:59:20.728 D/NetdConnector(  214): RSP <- {217 0}
+05-17 15:59:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:00:00.096 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:01:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:01:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:01:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:02:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:03:00.002 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:03:00.102 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:03:47.778 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:03:57.738 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:04:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:04:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:04:22.672 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:04:52.582 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:04:59.989 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:05:00.099 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:06:00.037 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:06:00.108 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:06:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:07:00.106 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:07:12.168 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:07:27.122 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:07:37.092 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:07:42.087 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:08:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:08:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:08:36.911 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:08:40.354 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:08:40.434 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:08:40.454 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=PrefetcherService
+05-17 16:08:40.454 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=PrefetcherService
+05-17 16:08:46.900 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:08:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:09:00.103 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:09:20.683 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:09:20.703 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:09:20.723 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:09:20.723 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:09:20.733 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:09:20.743 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:09:20.743 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:09:20.743 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:09:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:10:00.092 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:10:59.990 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:11:00.090 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:11:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:12:00.099 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:12:59.987 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:13:00.097 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:14:00.006 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:14:00.106 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:14:10.936 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:14:15.911 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:15:00.004 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:15:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:15:10.755 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:15:25.699 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:16:00.003 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:16:00.073 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:16:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:17:00.101 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:18:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:18:00.090 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:18:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:19:00.098 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:19:20.709 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:19:20.719 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:19:20.729 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:19:20.729 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:19:20.739 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:19:20.749 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:19:20.759 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:19:20.759 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:19:34.973 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:19:49.917 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:19:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:20:00.087 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:20:59.995 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:21:00.106 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:21:24.640 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:21:34.609 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:21:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:22:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:22:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:23:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:23:04.347 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:23:24.296 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:23:40.382 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:23:40.412 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:23:54.215 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:23:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:24:00.091 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:24:09.160 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:24:38.318 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:24:38.359 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Handoff
+05-17 16:24:38.389 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Service
+05-17 16:24:38.389 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:24:38.399 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305615278283 (log), 1305615278283 (data)
+05-17 16:24:38.399 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Handoff
+05-17 16:24:38.449 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Service
+05-17 16:25:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:25:00.080 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:25:23.933 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:25:33.903 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:25:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:26:00.098 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:26:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:27:00.097 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:28:00.015 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:28:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:28:03.469 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:28:08.463 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:28:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:29:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:29:20.724 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:29:20.734 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:29:20.744 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:29:20.754 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:29:20.754 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:29:20.764 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:29:20.774 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:29:20.774 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:29:53.146 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:29:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:30:00.102 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:30:03.115 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:31:00.001 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:31:00.091 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:31:59.989 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:32:00.099 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:32:47.626 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:32:52.611 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:32:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:33:00.088 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:33:37.484 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:33:47.454 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:34:00.006 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:34:00.107 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:34:59.995 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:35:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:35:22.167 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:35:42.106 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:35:52.076 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:36:00.004 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:36:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:36:02.056 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:36:56.889 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:37:00.002 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:37:00.092 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:37:01.884 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:38:00.001 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:38:00.101 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:38:40.360 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:38:40.420 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:38:40.430 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=PrefetcherService
+05-17 16:38:40.440 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=PrefetcherService
+05-17 16:38:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:39:00.089 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:39:20.719 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:39:20.729 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:39:20.729 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:39:20.749 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:39:20.759 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:39:20.759 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:39:20.769 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:39:20.769 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:39:26.455 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:33.091 D/KeyguardViewMediator(  214): <!>com.android.internal.policy.impl.KeyguardViewMediator 608<!> wakeWhenReadyLocked(26)
+05-17 16:39:33.091 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+05-17 16:39:33.101 I/LockPatternKeyguardView(  214): <!>com.android.internal.policy.impl.LockPatternKeyguardView 518<!> wakeWhenReadyTq simState=READY
+05-17 16:39:33.111 D/PowerManagerService(  214): acquireWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:33.111 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:33.111 D/PowerManagerService(  214): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x0
+05-17 16:39:33.111 D/PowerManagerService(  214): setPowerState: mPowerState=0x0 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:33.111 D/PowerManagerService(  214): setPowerState: mPowerState=0 newState=7 noChangeLights=false
+05-17 16:39:33.111 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:39:33.111 D/PowerManagerService(  214):   oldScreenBright=false newScreenBright=true
+05-17 16:39:33.111 D/PowerManagerService(  214):   oldButtonBright=false newButtonBright=true
+05-17 16:39:33.111 D/PowerManagerService(  214):   oldScreenOn=false newScreenOn=true
+05-17 16:39:33.111 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:39:33.111 I/PowerManagerService(  214): setTargetLocked mask=2 curValue=0.0 target=102 targetValue=102 delta=6.8 nominalCurrentValue=0
+05-17 16:39:33.111 I/PowerManagerService(  214): scheduling light animator
+05-17 16:39:33.111 D/PowerManagerService(  214): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x7 realDifference=0x7 forceState=0x0
+05-17 16:39:33.111 I/PowerManagerService(  214): Setting brightess on 102: 4
+05-17 16:39:33.121 D/PowerManagerService(  214): - turning screen on...  mPreventScreenOn = false
+05-17 16:39:33.121 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:33.121 D/PowerManagerService(  214): Animating curIntValue=6: 2
+05-17 16:39:33.141 D/PowerManagerService(  214): Animating curIntValue=13: 2
+05-17 16:39:33.161 D/PowerManagerService(  214): Animating curIntValue=20: 2
+05-17 16:39:33.171 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+05-17 16:39:33.182 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1177<!> updateLayout: status=Airplane
+05-17 16:39:33.182 D/PowerManagerService(  214): Animating curIntValue=27: 2
+05-17 16:39:33.202 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2516<!> ******ACTIVITY RESUMING*****
+05-17 16:39:33.202 V/MiniApplicationManagerService(  214): Intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lge.launcher/.Launcher }
+05-17 16:39:33.202 V/MiniApplicationManagerService(  214): pkg=com.lge.launcher
+05-17 16:39:33.202 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1681<!> >> refreshMusicPlayerDisplay() ----------------------
+05-17 16:39:33.202 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1696<!>    music play info = null
+05-17 16:39:33.202 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1697<!>    has music play info = false
+05-17 16:39:33.202 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1698<!>    has music play status = stoped
+05-17 16:39:33.202 D/PowerManagerService(  214): Animating curIntValue=34: 2
+05-17 16:39:33.222 I/Lockscreen(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1436<!> onResume isScreenOn true
+05-17 16:39:33.222 D/PowerManagerService(  214): Animating curIntValue=40: 2
+05-17 16:39:33.232 D/PowerManagerService(  214): setKeyboardVisibility: false
+05-17 16:39:33.232 D/PowerManagerService(  214): Animating curIntValue=47: 2
+05-17 16:39:33.252 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2586<!> Current Task ID: 2
+05-17 16:39:33.252 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2587<!>    BaseActivity: ComponentInfo{com.lge.launcher/com.lge.launcher.Launcher}
+05-17 16:39:33.252 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2588<!>    Top Activity: ComponentInfo{com.lge.launcher/com.lge.launcher.Launcher}
+05-17 16:39:33.252 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:33.252 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:33.252 D/PowerManagerService(  214): Animating curIntValue=54: 2
+05-17 16:39:33.252 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:33.252 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:33.252 D/PowerManagerService(  214): mBroadcastWakeLock=UnsynchronizedWakeLock(mFlags=0x1 mCount=1 mHeld=true)
+05-17 16:39:33.262 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$ScreenStateReceiver 2929<!> onReceive(): Intent { act=android.intent.action.SCREEN_ON flg=0x40000000 }
+05-17 16:39:33.262 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 515<!> setTargetState: State: STATE_PAUSED New target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.262 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=RILJ
+05-17 16:39:33.272 V/DATA    (  296): <!>com.android.internal.telephony.MMDataConnectionTracker 2002<!> [DCT] intent received :android.intent.action.SCREEN_ON
+05-17 16:39:33.272 D/LGE_data(  296): <!>com.android.internal.telephony.MMDataConnectionTracker$1 296<!> ACTION_SCREEN_ON received. mIsScreenOn= true
+05-17 16:39:33.272 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2282<!> Check if application has add-on: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lge.launcher/.Launcher }
+05-17 16:39:33.272 D/PowerManagerService(  214): Animating curIntValue=61: 2
+05-17 16:39:33.282 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=RILJ
+05-17 16:39:33.292 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:33.292 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:33.292 D/PowerManagerService(  214): Animating curIntValue=68: 2
+05-17 16:39:33.312 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:33.312 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:33.312 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:33.312 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:33.312 D/PowerManagerService(  214): Animating curIntValue=74: 2
+05-17 16:39:33.322 D/DATA    (  296): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] pollstate() : reason = data network state changed
+05-17 16:39:33.322 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2351<!> No add-on found
+05-17 16:39:33.322 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2536<!> Not starting mini app while slider is closed
+05-17 16:39:33.322 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_PAUSED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.322 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 212<!> New state requested: STATE_RESUMED
+05-17 16:39:33.332 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 462<!> Setting timeout for ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.332 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 633<!> Set new state: STATE_RESUMED
+05-17 16:39:33.332 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 743<!> onResume()
+05-17 16:39:33.332 D/PowerManagerService(  214): Animating curIntValue=81: 2
+05-17 16:39:33.342 D/PowerManagerService(  214): Animating curIntValue=88: 2
+05-17 16:39:33.352 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:33.362 D/DATA    (  296): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] Poll ServiceState done: oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false]
+05-17 16:39:33.362 W/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1588<!> handleMiniAppStateChanged(STATE_RESUMED) ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.512 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 502<!> setState: New state: STATE_RESUMED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.512 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_RESUMED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:33.512 D/PowerManagerService(  214): Animating curIntValue=95: 2
+05-17 16:39:33.512 D/PowerManagerService(  214): Animating curIntValue=102: 2
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:39:33.682 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:39:36.415 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:38.176 D/PowerManagerService(  214): releaseWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:38.176 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x0 noChangeLights=false reason=3
+05-17 16:39:38.176 D/PowerManagerService(  214): setPowerState: mPowerState=7 newState=0 noChangeLights=false
+05-17 16:39:38.176 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:39:38.176 D/PowerManagerService(  214):   oldScreenBright=true newScreenBright=false
+05-17 16:39:38.176 D/PowerManagerService(  214):   oldButtonBright=true newButtonBright=false
+05-17 16:39:38.176 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=false
+05-17 16:39:38.176 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:39:38.176 I/PowerManagerService(  214): setTargetLocked mask=2 curValue=102.0 target=0 targetValue=0 delta=-6.8 nominalCurrentValue=102
+05-17 16:39:38.176 I/PowerManagerService(  214): scheduling light animator
+05-17 16:39:38.176 D/PowerManagerService(  214): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x7 realDifference=0x7 forceState=0x0
+05-17 16:39:38.176 I/PowerManagerService(  214): Setting brightess off: 4
+05-17 16:39:38.176 D/PowerManagerService(  214): Animating curIntValue=95: 2
+05-17 16:39:38.196 D/PowerManagerService(  214): Animating curIntValue=88: 2
+05-17 16:39:38.216 D/PowerManagerService(  214): Animating curIntValue=81: 2
+05-17 16:39:38.226 D/PowerManagerService(  214): Animating curIntValue=74: 2
+05-17 16:39:38.246 D/PowerManagerService(  214): Animating curIntValue=67: 2
+05-17 16:39:38.266 D/PowerManagerService(  214): Animating curIntValue=61: 2
+05-17 16:39:38.276 D/PowerManagerService(  214): Animating curIntValue=54: 2
+05-17 16:39:38.286 D/PowerManagerService(  214): Animating curIntValue=47: 2
+05-17 16:39:38.307 D/PowerManagerService(  214): Animating curIntValue=40: 2
+05-17 16:39:38.327 D/PowerManagerService(  214): Animating curIntValue=33: 2
+05-17 16:39:38.347 D/PowerManagerService(  214): Animating curIntValue=27: 2
+05-17 16:39:38.377 D/PowerManagerService(  214): Animating curIntValue=20: 2
+05-17 16:39:38.377 D/PowerManagerService(  214): Animating curIntValue=13: 2
+05-17 16:39:38.407 D/PowerManagerService(  214): Animating curIntValue=6: 2
+05-17 16:39:38.427 D/PowerManagerService(  214): Animating curIntValue=0: 2
+05-17 16:39:38.437 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:38.437 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:38.437 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:38.437 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+05-17 16:39:38.447 E/ActivityThread(  214): Failed to find provider info for com.tmobile.driving.settingsprovider
+05-17 16:39:38.447 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+05-17 16:39:38.457 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$ScreenStateReceiver 2929<!> onReceive(): Intent { act=android.intent.action.SCREEN_OFF flg=0x40000000 }
+05-17 16:39:38.457 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 515<!> setTargetState: State: STATE_RESUMED New target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.457 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_RESUMED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.467 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 212<!> New state requested: STATE_PAUSED
+05-17 16:39:38.467 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 633<!> Set new state: STATE_PAUSED
+05-17 16:39:38.467 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 882<!> onSaveInstanceState(Bundle[{}] )
+05-17 16:39:38.467 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 595<!> onSaveInstanceState(Bundle[{}] )
+05-17 16:39:38.467 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 761<!> onPause()
+05-17 16:39:38.467 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 462<!> Setting timeout for ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.467 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=RILJ
+05-17 16:39:38.477 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1730<!> Hide the subdisplay
+05-17 16:39:38.477 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 235<!> hideMiniApplication() - Send message
+05-17 16:39:38.477 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:38.477 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:38.487 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=RILJ
+05-17 16:39:38.497 V/DATA    (  296): <!>com.android.internal.telephony.MMDataConnectionTracker 2002<!> [DCT] intent received :android.intent.action.SCREEN_OFF
+05-17 16:39:38.497 D/LGE_data(  296): <!>com.android.internal.telephony.MMDataConnectionTracker$1 302<!> ACTION_SCREEN_OFF received. mIsScreenOn= false
+05-17 16:39:38.517 D/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 1349<!> Hide mini application
+05-17 16:39:38.517 W/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1588<!> handleMiniAppStateChanged(STATE_PAUSED) ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.517 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 502<!> setState: New state: STATE_PAUSED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.517 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_PAUSED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:38.527 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:38.577 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:39:38.647 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:39:44.563 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.563 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:39:44.583 D/Vold    (  108): USB disconnected
+05-17 16:39:44.583 D/Vold    (  108): Share method ums now unavailable
+05-17 16:39:44.583 D/VoldConnector(  214): RCV <- {620 Share method ums now unavailable}
+05-17 16:39:44.593 I/StorageNotification(  278): UMS connection changed to false (media state removed)
+05-17 16:39:44.623 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.623 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:44.623 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:44.623 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:44.623 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:44.673 E/dun_service(  122): TIOCMGET for external port failed - I/O error 
+05-17 16:39:44.673 E/dun_service(  122): Error in dun_monitor_ports 
+05-17 16:39:44.993 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.993 I/dun_service(  122): got usb offline event 
+05-17 16:39:44.993 I/dun_service(  122):  ustate is DUN_USBSTATE_UNPLUG
+05-17 16:39:44.993 I/dun_service(  122): Post event 1
+05-17 16:39:44.993 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.993 I/dun_service(  122): got usb online event 
+05-17 16:39:44.993 I/dun_service(  122):  ustate is DUN_USBSTATE_PLUG
+05-17 16:39:44.993 I/dun_service(  122): Post event 2
+05-17 16:39:44.993 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.993 I/dun_service(  122): received event: DUN_EVENT_USB_UNPLUG 
+05-17 16:39:44.993 I/dun_service(  122): received event(DUN_EVENT_USB_UNPLUG) in state(DUN_STATE_IDLE)
+05-17 16:39:44.993 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:44.993 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:39:44.993 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:39:44.993 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:39:44.993 D/Vold    (  108): USB connected
+05-17 16:39:44.993 D/Vold    (  108): Share method ums now available
+05-17 16:39:44.993 D/VoldConnector(  214): RCV <- {620 Share method ums now available}
+05-17 16:39:44.993 I/StorageNotification(  278): UMS connection changed to true (media state removed)
+05-17 16:39:45.093 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:45.093 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:45.093 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:45.093 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:45.494 E/dun_service(  122): Error cancelling thread 61792, error = 3 (No such process)
+05-17 16:39:45.494 I/dun_service(  122): Joined port monitor thread 
+05-17 16:39:45.494 I/dun_service(  122): Joined the port read thread 
+05-17 16:39:45.494 I/dun_service(  122): Joined the port read thread 
+05-17 16:39:45.494 I/dun_service(  122): Moved to state(DUN_STATE_USB_UNPLUG)
+05-17 16:39:45.494 I/dun_service(  122): received event: DUN_EVENT_USB_PLUG 
+05-17 16:39:45.494 I/dun_service(  122): received event(DUN_EVENT_USB_PLUG) in state(DUN_STATE_USB_UNPLUG)
+05-17 16:39:45.494 I/dun_service(  122): Successfully opened SMD port: b, ext port: 10
+05-17 16:39:45.494 I/dun_service(  122): Configured external host port in RAW mode
+05-17 16:39:45.494 I/dun_service(  122): Moved to state(DUN_STATE_IDLE)
+05-17 16:39:45.694 I/dun_service(  122): modem_bits0, prev_mdm_bits 0, init = 1,
+05-17 16:39:45.694 I/dun_service(  122): smdtoextctrl: ext port bits 0, smdoldstatus 0, init = 1
+05-17 16:39:46.374 D/KeyguardViewMediator(  214): <!>com.android.internal.policy.impl.KeyguardViewMediator 608<!> wakeWhenReadyLocked(26)
+05-17 16:39:46.374 I/LockPatternKeyguardView(  214): <!>com.android.internal.policy.impl.LockPatternKeyguardView 518<!> wakeWhenReadyTq simState=READY
+05-17 16:39:46.374 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+05-17 16:39:46.374 D/PowerManagerService(  214): acquireWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:46.374 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:46.374 D/PowerManagerService(  214): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x0
+05-17 16:39:46.374 D/PowerManagerService(  214): setPowerState: mPowerState=0x0 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:46.374 D/PowerManagerService(  214): setPowerState: mPowerState=0 newState=7 noChangeLights=false
+05-17 16:39:46.374 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:39:46.374 D/PowerManagerService(  214):   oldScreenBright=false newScreenBright=true
+05-17 16:39:46.374 D/PowerManagerService(  214):   oldButtonBright=false newButtonBright=true
+05-17 16:39:46.374 D/PowerManagerService(  214):   oldScreenOn=false newScreenOn=true
+05-17 16:39:46.374 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:39:46.374 I/PowerManagerService(  214): setTargetLocked mask=2 curValue=0.0 target=102 targetValue=102 delta=6.8 nominalCurrentValue=0
+05-17 16:39:46.374 I/PowerManagerService(  214): scheduling light animator
+05-17 16:39:46.374 D/PowerManagerService(  214): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x7 realDifference=0x7 forceState=0x0
+05-17 16:39:46.374 I/PowerManagerService(  214): Setting brightess on 102: 4
+05-17 16:39:46.374 D/PowerManagerService(  214): - turning screen on...  mPreventScreenOn = false
+05-17 16:39:46.374 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:46.374 D/PowerManagerService(  214): Animating curIntValue=6: 2
+05-17 16:39:46.384 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2516<!> ******ACTIVITY RESUMING*****
+05-17 16:39:46.384 V/MiniApplicationManagerService(  214): Intent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lge.launcher/.Launcher }
+05-17 16:39:46.384 V/MiniApplicationManagerService(  214): pkg=com.lge.launcher
+05-17 16:39:46.384 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=keyguardWakeAndHandOff
+05-17 16:39:46.384 D/PowerManagerService(  214): setKeyboardVisibility: false
+05-17 16:39:46.394 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1177<!> updateLayout: status=Airplane
+05-17 16:39:46.394 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1681<!> >> refreshMusicPlayerDisplay() ----------------------
+05-17 16:39:46.394 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1696<!>    music play info = null
+05-17 16:39:46.394 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1697<!>    has music play info = false
+05-17 16:39:46.394 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1698<!>    has music play status = stoped
+05-17 16:39:46.394 I/Lockscreen(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1436<!> onResume isScreenOn true
+05-17 16:39:46.394 D/PowerManagerService(  214): Animating curIntValue=13: 2
+05-17 16:39:46.414 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2586<!> Current Task ID: 2
+05-17 16:39:46.414 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2587<!>    BaseActivity: ComponentInfo{com.lge.launcher/com.lge.launcher.Launcher}
+05-17 16:39:46.414 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2588<!>    Top Activity: ComponentInfo{com.lge.launcher/com.lge.launcher.Launcher}
+05-17 16:39:46.414 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2282<!> Check if application has add-on: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000000 cmp=com.lge.launcher/.Launcher }
+05-17 16:39:46.414 D/PowerManagerService(  214): Animating curIntValue=20: 2
+05-17 16:39:46.414 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:46.414 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:46.414 D/PowerManagerService(  214): mBroadcastWakeLock=UnsynchronizedWakeLock(mFlags=0x1 mCount=1 mHeld=true)
+05-17 16:39:46.424 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$ScreenStateReceiver 2929<!> onReceive(): Intent { act=android.intent.action.SCREEN_ON flg=0x40000000 }
+05-17 16:39:46.424 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 515<!> setTargetState: State: STATE_PAUSED New target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.424 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=RILJ
+05-17 16:39:46.424 D/PowerManagerService(  214): Animating curIntValue=27: 2
+05-17 16:39:46.434 V/DATA    (  296): <!>com.android.internal.telephony.MMDataConnectionTracker 2002<!> [DCT] intent received :android.intent.action.SCREEN_ON
+05-17 16:39:46.434 D/LGE_data(  296): <!>com.android.internal.telephony.MMDataConnectionTracker$1 296<!> ACTION_SCREEN_ON received. mIsScreenOn= true
+05-17 16:39:46.444 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2351<!> No add-on found
+05-17 16:39:46.444 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 2536<!> Not starting mini app while slider is closed
+05-17 16:39:46.444 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_PAUSED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.444 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 212<!> New state requested: STATE_RESUMED
+05-17 16:39:46.444 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 633<!> Set new state: STATE_RESUMED
+05-17 16:39:46.444 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 743<!> onResume()
+05-17 16:39:46.444 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=RILJ
+05-17 16:39:46.444 D/PowerManagerService(  214): Animating curIntValue=34: 2
+05-17 16:39:46.464 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:46.464 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:46.464 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:46.464 D/PowerManagerService(  214): Animating curIntValue=40: 2
+05-17 16:39:46.474 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:46.474 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:46.474 I/Flex    (  278): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:46.484 D/DATA    (  296): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] pollstate() : reason = data network state changed
+05-17 16:39:46.484 D/DATA    (  296): <!>com.android.internal.telephony.DataServiceStateTracker 994<!> [DSST] Poll ServiceState done: oldSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false] newSS=[3 home null null null  Unknown CSS not supported -1 -1RoamInd: -1DefRoamInd: -1EmergOnly: false]
+05-17 16:39:46.484 D/PowerManagerService(  214): Animating curIntValue=47: 2
+05-17 16:39:46.494 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:39:46.505 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 462<!> Setting timeout for ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.505 W/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1588<!> handleMiniAppStateChanged(STATE_RESUMED) ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.505 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 502<!> setState: New state: STATE_RESUMED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.505 D/PowerManagerService(  214): Animating curIntValue=54: 2
+05-17 16:39:46.515 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_RESUMED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:39:46.515 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:39:46.525 D/PowerManagerService(  214): Animating curIntValue=61: 2
+05-17 16:39:46.545 D/PowerManagerService(  214): Animating curIntValue=68: 2
+05-17 16:39:46.565 D/PowerManagerService(  214): Animating curIntValue=74: 2
+05-17 16:39:46.585 D/PowerManagerService(  214): Animating curIntValue=81: 2
+05-17 16:39:46.605 D/PowerManagerService(  214): Animating curIntValue=88: 2
+05-17 16:39:46.625 D/PowerManagerService(  214): Animating curIntValue=95: 2
+05-17 16:39:46.645 D/PowerManagerService(  214): Animating curIntValue=102: 2
+05-17 16:39:49.407 D/PowerManagerService(  214): userActivity mLastEventTime=82596784 time=89630438 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:49.417 D/PowerManagerService(  214): acquireWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:49.417 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:49.417 D/PowerManagerService(  214): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x7
+05-17 16:39:49.417 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:49.748 D/PowerManagerService(  214): userActivity mLastEventTime=89630438 time=89630772 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:50.248 D/PowerManagerService(  214): userActivity mLastEventTime=89630772 time=89631277 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:50.809 D/PowerManagerService(  214): userActivity mLastEventTime=89631277 time=89631834 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:51.329 D/PowerManagerService(  214): userActivity mLastEventTime=89631834 time=89632352 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:51.389 D/PowerManagerService(  214): releaseWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:51.389 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:51.509 D/PowerManagerService(  214): userActivity mLastEventTime=89632352 time=89632538 mUserActivityAllowed=false mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:51.519 D/DSKIM   (  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 922<!> scrollAnimation, fromY = 162, toY = 0
+05-17 16:39:51.519 D/PowerManagerService(  214): acquireWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:51.519 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:51.519 D/PowerManagerService(  214): wakeup here mUserState=0x0 mWakeLockState=0x7 previous wakeLockState=0x7
+05-17 16:39:51.519 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:51.519 D/PowerManagerService(  214): releaseWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:51.519 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=3
+05-17 16:39:51.810 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:39:51.820 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:39:51.830 E/ActivityThread(  214): Failed to find provider info for com.tmobile.driving.settingsprovider
+05-17 16:39:51.850 D/PowerManagerService(  214): enableUserActivity true
+05-17 16:39:51.860 D/PowerManagerService(  214): userActivity mLastEventTime=89632538 time=89632885 mUserActivityAllowed=true mUserState=0x0 mWakeLockState=0x7 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:51.860 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:51.860 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=true reason=2
+05-17 16:39:51.860 D/PowerManagerService(  214): setTimeoutLocked now=89632885 timeoutOverride=-1 nextState=3 when=89638885
+05-17 16:39:51.860 D/PowerManagerService(  214): releaseWakeLock flags=0x1000001a tag=keyguard
+05-17 16:39:51.860 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x3 noChangeLights=false reason=3
+05-17 16:39:51.870 D/PowerManagerService(  214): setPowerState: mPowerState=7 newState=3 noChangeLights=false
+05-17 16:39:51.870 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:39:51.870 D/PowerManagerService(  214):   oldScreenBright=true newScreenBright=true
+05-17 16:39:51.870 D/PowerManagerService(  214):   oldButtonBright=true newButtonBright=false
+05-17 16:39:51.870 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=true
+05-17 16:39:51.870 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:39:51.870 D/PowerManagerService(  214): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x4 realDifference=0x4 forceState=0x0
+05-17 16:39:51.870 I/PowerManagerService(  214): Setting brightess off: 4
+05-17 16:39:51.880 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$ScreenStateReceiver 2929<!> onReceive(): Intent { act=android.intent.action.USER_PRESENT flg=0x20000000 }
+05-17 16:39:51.880 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 515<!> setTargetState: State: STATE_RESUMED New target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:51.880 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_RESUMED Target: STATE_RESUMED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:39:51.880 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1678<!> Unhide the subdisplay
+05-17 16:39:51.880 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 253<!> unhideMiniApplication() - Send message
+05-17 16:39:51.880 D/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 1358<!> Unhide mini application
+05-17 16:39:51.890 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.890 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.910 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.920 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.930 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.930 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.930 W/InputManagerService(  214): Window already focused, ignoring focus gain of: com.android.internal.view.IInputMethodClient$Stub$Proxy@40922010
+05-17 16:39:51.940 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.940 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.950 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.950 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.960 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.960 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:51.980 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:51.980 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.000 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.000 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.010 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.010 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.030 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.030 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.050 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.050 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.060 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.060 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.080 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.080 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.090 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.090 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.110 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.110 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.130 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.130 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.150 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.150 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.160 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.160 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.180 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.180 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.200 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.200 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.210 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.210 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.230 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.230 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.250 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.250 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.260 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.260 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.280 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.280 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.290 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.300 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.310 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.310 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.330 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.330 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.340 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.340 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.360 E/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1739<!> [BTUI] ### LockScreen2 : isOpen(false)
+05-17 16:39:52.360 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.360 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.400 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:39:52.410 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.410 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.410 D/Vold    (  108): USB disconnected
+05-17 16:39:52.410 D/Vold    (  108): Share method ums now unavailable
+05-17 16:39:52.410 D/VoldConnector(  214): RCV <- {620 Share method ums now unavailable}
+05-17 16:39:52.410 I/StorageNotification(  278): UMS connection changed to false (media state removed)
+05-17 16:39:52.460 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.460 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.480 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.480 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.570 E/dun_service(  122): TIOCMGET for external port failed - I/O error 
+05-17 16:39:52.570 E/dun_service(  122): Error in dun_monitor_ports 
+05-17 16:39:52.781 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.781 I/dun_service(  122): got usb offline event 
+05-17 16:39:52.781 I/dun_service(  122):  ustate is DUN_USBSTATE_UNPLUG
+05-17 16:39:52.781 I/dun_service(  122): Post event 1
+05-17 16:39:52.781 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.781 I/dun_service(  122): got usb online event 
+05-17 16:39:52.781 I/dun_service(  122):  ustate is DUN_USBSTATE_PLUG
+05-17 16:39:52.781 I/dun_service(  122): Post event 2
+05-17 16:39:52.781 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.781 I/dun_service(  122): received event: DUN_EVENT_USB_UNPLUG 
+05-17 16:39:52.781 I/dun_service(  122): received event(DUN_EVENT_USB_UNPLUG) in state(DUN_STATE_IDLE)
+05-17 16:39:52.781 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:39:52.781 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:39:52.781 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:39:52.781 D/Vold    (  108): USB connected
+05-17 16:39:52.781 D/Vold    (  108): Share method ums now available
+05-17 16:39:52.781 D/VoldConnector(  214): RCV <- {620 Share method ums now available}
+05-17 16:39:52.781 I/StorageNotification(  278): UMS connection changed to true (media state removed)
+05-17 16:39:52.791 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:52.841 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.841 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:52.841 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:52.841 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:53.281 E/dun_service(  122): Error cancelling thread 61792, error = 3 (No such process)
+05-17 16:39:53.281 I/dun_service(  122): Joined port monitor thread 
+05-17 16:39:53.281 I/dun_service(  122): Joined the port read thread 
+05-17 16:39:53.281 I/dun_service(  122): Joined the port read thread 
+05-17 16:39:53.281 I/dun_service(  122): Moved to state(DUN_STATE_USB_UNPLUG)
+05-17 16:39:53.281 I/dun_service(  122): received event: DUN_EVENT_USB_PLUG 
+05-17 16:39:53.281 I/dun_service(  122): received event(DUN_EVENT_USB_PLUG) in state(DUN_STATE_USB_UNPLUG)
+05-17 16:39:53.281 I/dun_service(  122): Successfully opened SMD port: b, ext port: 10
+05-17 16:39:53.281 I/dun_service(  122): Configured external host port in RAW mode
+05-17 16:39:53.281 I/dun_service(  122): Moved to state(DUN_STATE_IDLE)
+05-17 16:39:53.491 I/dun_service(  122): modem_bits0, prev_mdm_bits 0, init = 1,
+05-17 16:39:53.491 I/dun_service(  122): smdtoextctrl: ext port bits 0, smdoldstatus 0, init = 1
+05-17 16:39:56.084 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=*vibrator*
+05-17 16:39:56.084 D/PowerManagerService(  214): userActivity mLastEventTime=89632885 time=89637101 mUserActivityAllowed=true mUserState=0x3 mWakeLockState=0x0 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:56.084 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:56.084 D/PowerManagerService(  214): setPowerState: mPowerState=0x3 newState=0x7 noChangeLights=false reason=2
+05-17 16:39:56.084 D/PowerManagerService(  214): setPowerState: mPowerState=3 newState=7 noChangeLights=false
+05-17 16:39:56.084 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:39:56.084 D/PowerManagerService(  214):   oldScreenBright=true newScreenBright=true
+05-17 16:39:56.084 D/PowerManagerService(  214):   oldButtonBright=false newButtonBright=true
+05-17 16:39:56.084 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=true
+05-17 16:39:56.084 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:39:56.084 D/PowerManagerService(  214): offMask=0x0 dimMask=0x0 onMask=0x4 difference=0x4 realDifference=0x4 forceState=0x0
+05-17 16:39:56.084 I/PowerManagerService(  214): Setting brightess on 102: 4
+05-17 16:39:56.084 D/PowerManagerService(  214): setTimeoutLocked now=89637101 timeoutOverride=-1 nextState=3 when=89643101
+05-17 16:39:56.094 D/LGEHome onKeyDown(  322): <!>com.lge.launcher.HLog 21<!> [Launcher.java:5745:onKeyDown()] key = 4
+05-17 16:39:56.154 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=*vibrator*
+05-17 16:39:56.214 D/LGEHome onKeyUp(  322): <!>com.lge.launcher.HLog 21<!> [Launcher.java:5791:onKeyUp()] key = 4
+05-17 16:39:56.354 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:58.766 D/PowerManagerService(  214): userActivity mLastEventTime=89637101 time=89639781 mUserActivityAllowed=true mUserState=0x7 mWakeLockState=0x0 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:58.766 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:58.766 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=2
+05-17 16:39:58.766 D/PowerManagerService(  214): setTimeoutLocked now=89639781 timeoutOverride=-1 nextState=3 when=89645781
+05-17 16:39:58.786 D/PowerManagerService(  214): userActivity mLastEventTime=89639781 time=89639804 mUserActivityAllowed=true mUserState=0x7 mWakeLockState=0x0 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:39:58.786 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:39:58.786 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=2
+05-17 16:39:58.786 D/PowerManagerService(  214): setTimeoutLocked now=89639804 timeoutOverride=-1 nextState=3 when=89645804
+05-17 16:39:59.727 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:59.727 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:39:59.737 D/Vold    (  108): USB disconnected
+05-17 16:39:59.737 D/Vold    (  108): Share method ums now unavailable
+05-17 16:39:59.747 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:39:59.767 D/VoldConnector(  214): RCV <- {620 Share method ums now unavailable}
+05-17 16:39:59.777 I/StorageNotification(  278): UMS connection changed to false (media state removed)
+05-17 16:39:59.807 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:59.807 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:59.817 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:39:59.817 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:39:59.898 E/dun_service(  122): TIOCMGET for external port failed - I/O error 
+05-17 16:39:59.898 E/dun_service(  122): Error in dun_monitor_ports 
+05-17 16:39:59.988 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:40:00.008 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:40:00.238 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:00.238 I/dun_service(  122): got usb offline event 
+05-17 16:40:00.238 I/dun_service(  122):  ustate is DUN_USBSTATE_UNPLUG
+05-17 16:40:00.238 I/dun_service(  122): Post event 1
+05-17 16:40:00.238 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:00.238 I/dun_service(  122): got usb online event 
+05-17 16:40:00.238 I/dun_service(  122):  ustate is DUN_USBSTATE_PLUG
+05-17 16:40:00.238 I/dun_service(  122): Post event 2
+05-17 16:40:00.238 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:00.238 I/dun_service(  122): received event: DUN_EVENT_USB_UNPLUG 
+05-17 16:40:00.238 I/dun_service(  122): received event(DUN_EVENT_USB_UNPLUG) in state(DUN_STATE_IDLE)
+05-17 16:40:00.238 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:40:00.238 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:40:00.238 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:40:00.238 D/Vold    (  108): USB connected
+05-17 16:40:00.238 D/Vold    (  108): Share method ums now available
+05-17 16:40:00.248 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:00.248 D/VoldConnector(  214): RCV <- {620 Share method ums now available}
+05-17 16:40:00.248 I/StorageNotification(  278): UMS connection changed to true (media state removed)
+05-17 16:40:00.288 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:00.288 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:00.308 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:00.308 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:00.738 E/dun_service(  122): Error cancelling thread 61792, error = 3 (No such process)
+05-17 16:40:00.738 I/dun_service(  122): Joined port monitor thread 
+05-17 16:40:00.738 I/dun_service(  122): Joined the port read thread 
+05-17 16:40:00.738 I/dun_service(  122): Joined the port read thread 
+05-17 16:40:00.748 I/dun_service(  122): Moved to state(DUN_STATE_USB_UNPLUG)
+05-17 16:40:00.748 I/dun_service(  122): received event: DUN_EVENT_USB_PLUG 
+05-17 16:40:00.748 I/dun_service(  122): received event(DUN_EVENT_USB_PLUG) in state(DUN_STATE_USB_UNPLUG)
+05-17 16:40:00.748 I/dun_service(  122): Successfully opened SMD port: b, ext port: 10
+05-17 16:40:00.748 I/dun_service(  122): Configured external host port in RAW mode
+05-17 16:40:00.748 I/dun_service(  122): Moved to state(DUN_STATE_IDLE)
+05-17 16:40:00.949 I/dun_service(  122): modem_bits0, prev_mdm_bits 0, init = 1,
+05-17 16:40:00.949 I/dun_service(  122): smdtoextctrl: ext port bits 0, smdoldstatus 0, init = 1
+05-17 16:40:01.229 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=*vibrator*
+05-17 16:40:01.229 D/PowerManagerService(  214): userActivity mLastEventTime=89639804 time=89642251 mUserActivityAllowed=true mUserState=0x7 mWakeLockState=0x0 mProximitySensorActive=false timeoutOverride=-1 force=false
+05-17 16:40:01.239 D/PowerManagerService(  214): reactivateScreenLocksLocked mProxIgnoredBecauseScreenTurnedOff=false
+05-17 16:40:01.239 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x7 noChangeLights=false reason=2
+05-17 16:40:01.239 D/PowerManagerService(  214): setTimeoutLocked now=89642251 timeoutOverride=-1 nextState=3 when=89648251
+05-17 16:40:01.249 D/LGEHome onKeyDown(  322): <!>com.lge.launcher.HLog 21<!> [Launcher.java:5745:onKeyDown()] key = 4
+05-17 16:40:01.309 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=*vibrator*
+05-17 16:40:01.389 D/LGEHome onKeyUp(  322): <!>com.lge.launcher.HLog 21<!> [Launcher.java:5791:onKeyUp()] key = 4
+05-17 16:40:07.235 D/PowerManagerService(  214): user activity timeout timed out nextState=3
+05-17 16:40:07.235 D/PowerManagerService(  214): setPowerState: mPowerState=0x7 newState=0x3 noChangeLights=false reason=3
+05-17 16:40:07.235 D/PowerManagerService(  214): setPowerState: mPowerState=7 newState=3 noChangeLights=false
+05-17 16:40:07.235 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:40:07.235 D/PowerManagerService(  214):   oldScreenBright=true newScreenBright=true
+05-17 16:40:07.235 D/PowerManagerService(  214):   oldButtonBright=true newButtonBright=false
+05-17 16:40:07.235 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=true
+05-17 16:40:07.245 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:40:07.255 D/PowerManagerService(  214): offMask=0x4 dimMask=0x0 onMask=0x0 difference=0x4 realDifference=0x4 forceState=0x0
+05-17 16:40:07.255 I/PowerManagerService(  214): Setting brightess off: 4
+05-17 16:40:07.255 D/PowerManagerService(  214): setTimeoutLocked now=89648276 timeoutOverride=-1 nextState=1 when=90235276
+05-17 16:40:11.309 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:11.369 D/NetdConnector(  214): SND -> {interface list} {null}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 lo}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 dummy0}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet0}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet1}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet2}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet3}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet4}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet5}
+05-17 16:40:11.369 D/NetdConnector(  214): RCV <- {110 rmnet6}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 lo}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 dummy0}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet0}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet1}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet2}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet3}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet4}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet5}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet6}
+05-17 16:40:11.379 D/NetdConnector(  214): RCV <- {110 rmnet7}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet7}
+05-17 16:40:11.379 D/NetdConnector(  214): RCV <- {110 rmnet_sdio0}
+05-17 16:40:11.379 D/NetdConnector(  214): RSP <- {110 rmnet_sdio0}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio1}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio2}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio3}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio4}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio5}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio6}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 rmnet_sdio7}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 usb0}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 sit0}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {110 ip6tnl0}
+05-17 16:40:11.389 D/NetdConnector(  214): RCV <- {200 Interface list completed}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio1}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio2}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio3}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio4}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio5}
+05-17 16:40:11.389 D/NetdConnector(  214): RSP <- {110 rmnet_sdio6}
+05-17 16:40:11.399 E/Tethering(  214): <!>com.android.server.connectivity.Tethering 314<!> active iface (usb0) reported as added, ignoring
+05-17 16:40:11.399 D/NetdConnector(  214): RSP <- {110 rmnet_sdio7}
+05-17 16:40:11.399 D/NetdConnector(  214): RSP <- {110 usb0}
+05-17 16:40:11.399 D/NetdConnector(  214): RSP <- {110 sit0}
+05-17 16:40:11.399 D/NetdConnector(  214): RSP <- {110 ip6tnl0}
+05-17 16:40:11.399 D/NetdConnector(  214): RSP <- {200 Interface list completed}
+05-17 16:40:11.399 D/NetdConnector(  214): List terminated with {200 Interface list completed}
+05-17 16:40:17.665 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:17.665 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:40:17.685 D/Vold    (  108): USB disconnected
+05-17 16:40:17.685 D/Vold    (  108): Share method ums now unavailable
+05-17 16:40:17.685 D/VoldConnector(  214): RCV <- {620 Share method ums now unavailable}
+05-17 16:40:17.705 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:17.705 I/StorageNotification(  278): UMS connection changed to false (media state removed)
+05-17 16:40:17.735 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:17.735 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:17.735 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:17.735 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:17.785 E/dun_service(  122): TIOCMGET for external port failed - I/O error 
+05-17 16:40:17.785 E/dun_service(  122): Error in dun_monitor_ports 
+05-17 16:40:18.065 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:18.065 I/dun_service(  122): got usb offline event 
+05-17 16:40:18.065 I/dun_service(  122):  ustate is DUN_USBSTATE_UNPLUG
+05-17 16:40:18.065 I/dun_service(  122): Post event 1
+05-17 16:40:18.065 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:18.065 I/dun_service(  122): got usb online event 
+05-17 16:40:18.065 I/dun_service(  122):  ustate is DUN_USBSTATE_PLUG
+05-17 16:40:18.065 I/dun_service(  122): Post event 2
+05-17 16:40:18.065 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:18.065 I/dun_service(  122): received event: DUN_EVENT_USB_UNPLUG 
+05-17 16:40:18.065 I/dun_service(  122): received event(DUN_EVENT_USB_UNPLUG) in state(DUN_STATE_IDLE)
+05-17 16:40:18.065 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:18.065 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:40:18.065 W/Vold    (  108): Ignoring unknown switch 'MSM72K_UDC'
+05-17 16:40:18.065 W/Vold    (  108): Ignoring unknown switch 'usb_mass_storage'
+05-17 16:40:18.065 D/Vold    (  108): USB connected
+05-17 16:40:18.065 D/Vold    (  108): Share method ums now available
+05-17 16:40:18.065 D/VoldConnector(  214): RCV <- {620 Share method ums now available}
+05-17 16:40:18.065 I/StorageNotification(  278): UMS connection changed to true (media state removed)
+05-17 16:40:18.135 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:18.135 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:18.135 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:40:18.135 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:40:18.566 E/dun_service(  122): Error cancelling thread 61792, error = 3 (No such process)
+05-17 16:40:18.566 I/dun_service(  122): Joined port monitor thread 
+05-17 16:40:18.566 I/dun_service(  122): Joined the port read thread 
+05-17 16:40:18.566 I/dun_service(  122): Joined the port read thread 
+05-17 16:40:18.566 I/dun_service(  122): Moved to state(DUN_STATE_USB_UNPLUG)
+05-17 16:40:18.566 I/dun_service(  122): received event: DUN_EVENT_USB_PLUG 
+05-17 16:40:18.566 I/dun_service(  122): received event(DUN_EVENT_USB_PLUG) in state(DUN_STATE_USB_UNPLUG)
+05-17 16:40:18.566 I/dun_service(  122): Successfully opened SMD port: b, ext port: 10
+05-17 16:40:18.566 I/dun_service(  122): Configured external host port in RAW mode
+05-17 16:40:18.566 I/dun_service(  122): Moved to state(DUN_STATE_IDLE)
+05-17 16:40:18.766 I/dun_service(  122): modem_bits0, prev_mdm_bits 0, init = 1,
+05-17 16:40:18.766 I/dun_service(  122): smdtoextctrl: ext port bits 0, smdoldstatus 0, init = 1
+05-17 16:40:21.278 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:40:51.188 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:41:00.006 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:41:00.086 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:41:01.157 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:41:41.046 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:42:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:42:00.085 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:42:30.895 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:42:35.880 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:43:00.003 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:43:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:43:05.789 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:43:15.769 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:43:50.663 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:43:55.638 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:44:00.002 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:44:00.082 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:44:05.607 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:45:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:45:00.080 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:45:45.325 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:45:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:46:00.079 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:46:00.269 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:46:10.249 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:46:59.987 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:47:00.088 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:47:05.082 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:47:25.032 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:47:49.956 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:47:59.926 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:48:00.006 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:48:00.086 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:48:19.865 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:48:24.840 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:48:29.835 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:48:34.810 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:48:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:49:00.085 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:49:20.735 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:49:20.745 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:49:20.745 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:49:20.765 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:49:20.755 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:49:20.765 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:49:20.775 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:49:20.785 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:49:49.593 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:49:54.348 D/PowerManagerService(  214): user activity timeout timed out nextState=1
+05-17 16:49:54.348 D/PowerManagerService(  214): setPowerState: mPowerState=0x3 newState=0x1 noChangeLights=false reason=3
+05-17 16:49:54.348 D/PowerManagerService(  214): setPowerState: mPowerState=3 newState=1 noChangeLights=false
+05-17 16:49:54.348 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:49:54.348 D/PowerManagerService(  214):   oldScreenBright=true newScreenBright=false
+05-17 16:49:54.348 D/PowerManagerService(  214):   oldButtonBright=false newButtonBright=false
+05-17 16:49:54.348 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=true
+05-17 16:49:54.348 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:49:54.368 I/PowerManagerService(  214): setTargetLocked mask=2 curValue=102.0 target=20 targetValue=20 delta=-4.5555553 nominalCurrentValue=102
+05-17 16:49:54.368 I/PowerManagerService(  214): scheduling light animator
+05-17 16:49:54.368 D/PowerManagerService(  214): offMask=0x0 dimMask=0x0 onMask=0x0 difference=0x2 realDifference=0x2 forceState=0x0
+05-17 16:49:54.368 D/PowerManagerService(  214): setTimeoutLocked now=90235396 timeoutOverride=-1 nextState=0 when=90242396
+05-17 16:49:54.368 D/PowerManagerService(  214): Animating curIntValue=97: 2
+05-17 16:49:54.388 D/PowerManagerService(  214): Animating curIntValue=92: 2
+05-17 16:49:54.408 D/PowerManagerService(  214): Animating curIntValue=88: 2
+05-17 16:49:54.418 D/PowerManagerService(  214): Animating curIntValue=83: 2
+05-17 16:49:54.438 D/PowerManagerService(  214): Animating curIntValue=79: 2
+05-17 16:49:54.458 D/PowerManagerService(  214): Animating curIntValue=74: 2
+05-17 16:49:54.478 D/PowerManagerService(  214): Animating curIntValue=70: 2
+05-17 16:49:54.488 D/PowerManagerService(  214): Animating curIntValue=65: 2
+05-17 16:49:54.508 D/PowerManagerService(  214): Animating curIntValue=60: 2
+05-17 16:49:54.518 D/PowerManagerService(  214): Animating curIntValue=56: 2
+05-17 16:49:54.538 D/PowerManagerService(  214): Animating curIntValue=51: 2
+05-17 16:49:54.568 D/PowerManagerService(  214): Animating curIntValue=47: 2
+05-17 16:49:54.588 D/PowerManagerService(  214): Animating curIntValue=42: 2
+05-17 16:49:54.608 D/PowerManagerService(  214): Animating curIntValue=38: 2
+05-17 16:49:54.618 D/PowerManagerService(  214): Animating curIntValue=33: 2
+05-17 16:49:54.638 D/PowerManagerService(  214): Animating curIntValue=29: 2
+05-17 16:49:54.648 D/PowerManagerService(  214): Animating curIntValue=24: 2
+05-17 16:49:54.668 D/PowerManagerService(  214): Animating curIntValue=20: 2
+05-17 16:49:59.573 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:50:00.003 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:50:00.083 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:50:01.384 D/PowerManagerService(  214): user activity timeout timed out nextState=0
+05-17 16:50:01.384 D/PowerManagerService(  214): setPowerState: mPowerState=0x1 newState=0x0 noChangeLights=false reason=3
+05-17 16:50:01.384 D/PowerManagerService(  214): setPowerState: mPowerState=1 newState=0 noChangeLights=false
+05-17 16:50:01.384 D/PowerManagerService(  214):   oldKeyboardBright=false newKeyboardBright=false
+05-17 16:50:01.384 D/PowerManagerService(  214):   oldScreenBright=false newScreenBright=false
+05-17 16:50:01.384 D/PowerManagerService(  214):   oldButtonBright=false newButtonBright=false
+05-17 16:50:01.384 D/PowerManagerService(  214):   oldScreenOn=true newScreenOn=false
+05-17 16:50:01.384 D/PowerManagerService(  214):   oldBatteryLow=false newBatteryLow=false
+05-17 16:50:01.394 I/PowerManagerService(  214): setTargetLocked mask=2 curValue=20.0 target=0 targetValue=0 delta=-5.0 nominalCurrentValue=20
+05-17 16:50:01.394 I/PowerManagerService(  214): scheduling light animator
+05-17 16:50:01.394 D/PowerManagerService(  214): offMask=0x0 dimMask=0x0 onMask=0x0 difference=0x1 realDifference=0x1 forceState=0x0
+05-17 16:50:01.404 D/PowerManagerService(  214): Animating curIntValue=15: 2
+05-17 16:50:01.414 D/PowerManagerService(  214): Animating curIntValue=10: 2
+05-17 16:50:01.434 D/PowerManagerService(  214): Animating curIntValue=5: 2
+05-17 16:50:01.444 D/PowerManagerService(  214): Animating curIntValue=0: 2
+05-17 16:50:01.454 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:50:01.454 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=ActivityManager-Sleep
+05-17 16:50:01.545 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=ActivityManager-Sleep
+05-17 16:50:01.555 V/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$ScreenStateReceiver 2929<!> onReceive(): Intent { act=android.intent.action.SCREEN_OFF flg=0x40000000 }
+05-17 16:50:01.555 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 515<!> setTargetState: State: STATE_RESUMED New target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.555 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_RESUMED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.555 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 212<!> New state requested: STATE_PAUSED
+05-17 16:50:01.555 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 633<!> Set new state: STATE_PAUSED
+05-17 16:50:01.555 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 882<!> onSaveInstanceState(Bundle[{}] )
+05-17 16:50:01.555 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService 595<!> onSaveInstanceState(Bundle[{}] )
+05-17 16:50:01.555 V/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 761<!> onPause()
+05-17 16:50:01.565 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 462<!> Setting timeout for ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.565 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1730<!> Hide the subdisplay
+05-17 16:50:01.565 V/SubDisplayService(  291): <!>com.lge.subdisplay.framework.SubDisplayService$1 235<!> hideMiniApplication() - Send message
+05-17 16:50:01.565 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=RILJ
+05-17 16:50:01.575 V/DATA    (  296): <!>com.android.internal.telephony.MMDataConnectionTracker 2002<!> [DCT] intent received :android.intent.action.SCREEN_OFF
+05-17 16:50:01.575 D/LGE_data(  296): <!>com.android.internal.telephony.MMDataConnectionTracker$1 302<!> ACTION_SCREEN_OFF received. mIsScreenOn= false
+05-17 16:50:01.575 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=RILJ
+05-17 16:50:01.595 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=sleep_broadcast
+05-17 16:50:01.605 D/MiniApplication(  291): <!>com.lge.subdisplay.framework.MiniApplication 1349<!> Hide mini application
+05-17 16:50:01.605 W/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1588<!> handleMiniAppStateChanged(STATE_PAUSED) ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.605 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService$MiniAppServiceInfo 502<!> setState: New state: STATE_PAUSED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.605 D/MiniApplicationManagerService(  214): <!>com.lge.subdisplay.framework.server.MiniApplicationManagerService 1287<!> handleTransitionState: State: STATE_PAUSED Target: STATE_PAUSED Service: ComponentInfo{com.lge.subdisplay.app.subdisplayhome/com.lge.subdisplay.app.subdisplayhome.SubDisplayHome}
+05-17 16:50:01.615 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:50:01.615 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:50:01.615 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:50:01.625 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:50:06.459 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:50:06.459 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=show keyguard
+05-17 16:50:06.469 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:50:06.479 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:50:06.489 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:50:06.499 V/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 361<!> Creation orientation = 1
+05-17 16:50:06.499 E/ActivityThread(  214): Failed to find provider info for com.tmobile.driving.settingsprovider
+05-17 16:50:06.750 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1177<!> updateLayout: status=Airplane
+05-17 16:50:06.750 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1681<!> >> refreshMusicPlayerDisplay() ----------------------
+05-17 16:50:06.750 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1696<!>    music play info = null
+05-17 16:50:06.760 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1697<!>    has music play info = false
+05-17 16:50:06.760 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1698<!>    has music play status = stoped
+05-17 16:50:06.760 E/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1739<!> [BTUI] ### LockScreen2 : isOpen(true)
+05-17 16:50:06.760 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_OPERATOR_CODE TMO
+05-17 16:50:06.760 I/Flex    (  214): <!>com.lge.provider.Andy_Flex 109<!> getString FLEX_COUNTRY_CODE US
+05-17 16:50:06.760 E/ActivityThread(  214): Failed to find provider info for com.tmobile.driving.settingsprovider
+05-17 16:50:06.800 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1177<!> updateLayout: status=Airplane
+05-17 16:50:06.800 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1681<!> >> refreshMusicPlayerDisplay() ----------------------
+05-17 16:50:06.810 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1696<!>    music play info = null
+05-17 16:50:06.810 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1697<!>    has music play info = false
+05-17 16:50:06.810 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1698<!>    has music play status = stoped
+05-17 16:50:06.810 I/Lockscreen(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1441<!> onResume isScreenOn false
+05-17 16:50:06.810 D/PowerManagerService(  214): enableUserActivity false
+05-17 16:50:06.810 D/PowerManagerService(  214): setTimeoutLocked now=90247834 timeoutOverride=-1 nextState=0 when=90254834
+05-17 16:50:06.820 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:50:06.820 W/IInputConnectionWrapper(  322): <!>com.android.internal.view.IInputConnectionWrapper 267<!> getExtractedText on inactive InputConnection
+05-17 16:50:06.820 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:50:06.820 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:50:06.820 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:50:06.820 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=show keyguard
+05-17 16:50:06.830 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:50:06.830 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:50:06.830 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1663<!>     ### music artist = null
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1664<!>     ### music track = null
+05-17 16:50:06.850 D/Andy_LockScreen2(  214): <!>com.android.internal.policy.impl.Andy_LockScreen2 1665<!>     ### music state = stop
+05-17 16:50:06.850 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:50:06.850 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:50:06.870 D/skia    (  214): purging 193K from font cache [16 entries]
+05-17 16:50:06.880 D/PowerManagerService(  214): setScreenBrightnessOverride -1
+05-17 16:50:06.880 D/PowerManagerService(  214): setButtonBrightnessOverride -1
+05-17 16:50:13.827 D/PowerManagerService(  214): user activity timeout timed out nextState=0
+05-17 16:50:13.827 D/PowerManagerService(  214): setPowerState: mPowerState=0x0 newState=0x0 noChangeLights=false reason=3
+05-17 16:50:19.502 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:50:34.457 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:50:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:51:00.102 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:51:59.990 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:52:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:52:39.088 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:52:44.083 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:52:49.058 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:52:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:53:00.099 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:53:04.023 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:53:09.007 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:53:13.992 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:53:40.348 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:53:40.418 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:53:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:54:00.077 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:54:38.455 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:54:38.495 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Handoff
+05-17 16:54:38.515 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:54:38.515 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Service
+05-17 16:54:38.515 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Handoff
+05-17 16:54:38.535 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305617078410 (log), 1305617078410 (data)
+05-17 16:54:38.595 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Service
+05-17 16:54:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:55:00.106 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:55:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:56:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:56:48.351 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:57:00.003 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:57:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:57:03.316 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 16:57:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:58:00.091 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:59:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:59:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:59:20.740 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 16:59:20.750 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 16:59:20.750 D/NetdConnector(  214): RCV <- {216 0}
+05-17 16:59:20.770 D/NetdConnector(  214): RSP <- {216 0}
+05-17 16:59:20.770 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 16:59:20.780 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 16:59:20.790 D/NetdConnector(  214): RCV <- {217 0}
+05-17 16:59:20.800 D/NetdConnector(  214): RSP <- {217 0}
+05-17 16:59:59.988 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:00:00.098 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:00:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:01:00.097 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:01:52.448 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:02:00.096 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:02:02.418 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:12.398 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:27.352 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:37.322 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:52.286 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:02:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:03:00.064 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:03:07.231 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:03:12.226 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:03:17.211 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:03:22.196 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:03:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:04:00.103 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:04:17.029 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:04:26.989 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:05:00.001 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:05:00.091 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:05:59.990 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:06:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:06:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:07:00.098 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:07:26.484 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:07:41.419 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:07:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:08:00.087 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:08:06.343 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:08:11.338 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:08:40.376 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:08:40.426 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:08:40.436 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=PrefetcherService
+05-17 17:08:40.446 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=PrefetcherService
+05-17 17:09:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:09:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:09:20.755 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:09:20.765 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 17:09:20.786 D/NetdConnector(  214): RCV <- {216 0}
+05-17 17:09:20.786 D/NetdConnector(  214): RSP <- {216 0}
+05-17 17:09:20.786 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 17:09:20.806 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:09:20.806 D/NetdConnector(  214): RCV <- {217 0}
+05-17 17:09:20.816 D/NetdConnector(  214): RSP <- {217 0}
+05-17 17:10:00.004 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:10:00.104 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:10:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:11:00.102 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:11:15.798 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:11:20.773 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:11:25.757 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:11:40.712 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:11:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:12:00.101 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:12:40.540 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:12:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:13:00.089 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:13:00.470 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:13:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:14:00.108 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:14:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:15:00.097 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:15:35.031 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:15:40.015 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:16:00.005 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:16:00.095 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:16:54.788 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:17:00.024 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:17:00.124 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:17:09.743 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:18:00.002 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:18:00.102 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:18:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:19:00.101 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:19:04.405 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:19:04.455 D/NetdConnector(  214): SND -> {interface list} {null}
+05-17 17:19:04.455 D/NetdConnector(  214): RCV <- {110 lo}
+05-17 17:19:04.455 D/NetdConnector(  214): RCV <- {110 dummy0}
+05-17 17:19:04.465 D/NetdConnector(  214): RSP <- {110 lo}
+05-17 17:19:04.465 D/NetdConnector(  214): RSP <- {110 dummy0}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet0}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet1}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet2}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet3}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet4}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet5}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet6}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet7}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet_sdio0}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet_sdio1}
+05-17 17:19:04.465 D/NetdConnector(  214): RCV <- {110 rmnet_sdio2}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet0}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet1}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet2}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet3}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet4}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet5}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet6}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet7}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet_sdio0}
+05-17 17:19:04.475 D/NetdConnector(  214): RSP <- {110 rmnet_sdio1}
+05-17 17:19:04.485 D/NetdConnector(  214): RCV <- {110 rmnet_sdio3}
+05-17 17:19:04.485 D/NetdConnector(  214): RCV <- {110 rmnet_sdio4}
+05-17 17:19:04.485 D/NetdConnector(  214): RCV <- {110 rmnet_sdio5}
+05-17 17:19:04.485 D/NetdConnector(  214): RSP <- {110 rmnet_sdio2}
+05-17 17:19:04.485 D/NetdConnector(  214): RSP <- {110 rmnet_sdio3}
+05-17 17:19:04.485 D/NetdConnector(  214): RSP <- {110 rmnet_sdio4}
+05-17 17:19:04.485 D/NetdConnector(  214): RCV <- {110 rmnet_sdio6}
+05-17 17:19:04.485 D/NetdConnector(  214): RSP <- {110 rmnet_sdio5}
+05-17 17:19:04.485 D/NetdConnector(  214): RSP <- {110 rmnet_sdio6}
+05-17 17:19:04.495 D/NetdConnector(  214): RCV <- {110 rmnet_sdio7}
+05-17 17:19:04.495 D/NetdConnector(  214): RSP <- {110 rmnet_sdio7}
+05-17 17:19:04.495 D/NetdConnector(  214): RCV <- {110 usb0}
+05-17 17:19:04.495 D/NetdConnector(  214): RSP <- {110 usb0}
+05-17 17:19:04.495 D/NetdConnector(  214): RCV <- {110 sit0}
+05-17 17:19:04.495 D/NetdConnector(  214): RSP <- {110 sit0}
+05-17 17:19:04.495 D/NetdConnector(  214): RCV <- {110 ip6tnl0}
+05-17 17:19:04.495 D/NetdConnector(  214): RSP <- {110 ip6tnl0}
+05-17 17:19:04.495 D/NetdConnector(  214): RCV <- {200 Interface list completed}
+05-17 17:19:04.505 E/Tethering(  214): <!>com.android.server.connectivity.Tethering 314<!> active iface (usb0) reported as added, ignoring
+05-17 17:19:04.505 D/NetdConnector(  214): RSP <- {200 Interface list completed}
+05-17 17:19:04.505 D/NetdConnector(  214): List terminated with {200 Interface list completed}
+05-17 17:19:19.359 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:19:20.771 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 17:19:20.781 D/NetdConnector(  214): RCV <- {216 0}
+05-17 17:19:20.791 D/NetdConnector(  214): RSP <- {216 0}
+05-17 17:19:20.791 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 17:19:20.811 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:19:20.821 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:19:20.821 D/NetdConnector(  214): RCV <- {217 0}
+05-17 17:19:20.821 D/NetdConnector(  214): RSP <- {217 0}
+05-17 17:19:59.989 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:20:00.089 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:20:04.223 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:20:09.208 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:20:39.127 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:20:49.097 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:20:59.998 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:21:00.048 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:21:38.946 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:21:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:22:00.096 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:22:03.870 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:22:59.995 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:23:00.125 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:23:23.628 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:23:38.592 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:23:40.364 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:23:40.414 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:23:53.537 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:23:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:24:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:24:03.517 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:24:28.441 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:24:33.436 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:24:38.591 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:24:38.631 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Handoff
+05-17 17:24:38.651 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:24:38.661 I/EventLogService(  391): <!>com.google.android.gsf.checkin.EventLogService$1 122<!> Aggregate from 1305618878538 (log), 1305618878538 (data)
+05-17 17:24:38.661 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=Event Log Service
+05-17 17:24:38.661 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Handoff
+05-17 17:24:38.701 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=Event Log Service
+05-17 17:24:58.350 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:24:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:25:00.112 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:25:03.345 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:26:00.000 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:26:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:26:59.989 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:27:00.089 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:27:07.967 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:27:17.946 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:27:42.871 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:27:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:28:00.088 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:28:07.795 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:29:00.006 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:29:00.096 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:29:20.776 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:29:20.796 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:29:20.796 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 17:29:20.806 D/NetdConnector(  214): RCV <- {216 0}
+05-17 17:29:20.816 D/NetdConnector(  214): RSP <- {216 0}
+05-17 17:29:20.826 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 17:29:20.836 D/NetdConnector(  214): RCV <- {217 0}
+05-17 17:29:20.836 D/NetdConnector(  214): RSP <- {217 0}
+05-17 17:29:59.994 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:30:00.105 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:30:47.331 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:30:59.993 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:31:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:31:12.255 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:31:59.992 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:32:00.092 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:32:59.990 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:33:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:33:01.922 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:33:21.861 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:33:51.771 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:33:59.999 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:34:00.089 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:34:31.650 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:34:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:35:00.087 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:35:11.538 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:35:26.503 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:35:41.448 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:35:51.417 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:35:59.996 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:36:00.096 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:36:06.382 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:36:26.311 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:36:31.306 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:00.004 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:37:00.094 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:37:01.215 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:11.185 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:16.170 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:26.140 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:31.125 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:51.074 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:37:56.049 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:38:00.003 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:38:00.093 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:38:01.034 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:38:06.019 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:38:40.352 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:38:40.422 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:38:40.432 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=PrefetcherService
+05-17 17:38:40.442 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=PrefetcherService
+05-17 17:38:59.991 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:39:00.101 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:39:20.792 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:39:20.802 D/NetdConnector(  214): SND -> {interface readrxcounter rmnet0} {null}
+05-17 17:39:20.812 D/NetdConnector(  214): RCV <- {216 0}
+05-17 17:39:20.822 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:39:20.832 D/NetdConnector(  214): RSP <- {216 0}
+05-17 17:39:20.832 D/NetdConnector(  214): SND -> {interface readtxcounter rmnet0} {null}
+05-17 17:39:20.842 D/NetdConnector(  214): RCV <- {217 0}
+05-17 17:39:20.842 D/NetdConnector(  214): RSP <- {217 0}
+05-17 17:39:35.756 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:39:59.990 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:40:00.100 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:40:00.681 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:40:20.620 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:40:25.615 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:40:59.988 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:41:00.098 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager
+05-17 17:41:25.433 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:41:30.418 I/dun_service(  122): The value returned from dun_getusbmodemstate_fromsys is 2 
+05-17 17:41:59.997 D/PowerManagerService(  214): acquireWakeLock flags=0x1 tag=AlarmManager
+05-17 17:42:00.097 D/PowerManagerService(  214): releaseWakeLock flags=0x1 tag=AlarmManager

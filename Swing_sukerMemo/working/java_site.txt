@@ -1,0 +1,39 @@
+<<JAVA>>
+http://www.java2s.com/Code/Java/SWT-JFace-Eclipse/CatalogSWT-JFace-Eclipse.htm
+http://www.java2s.com/Tutorial/Java/0280__SWT/Catalog0280__SWT.htm
+http://www.yunsobi.com/blog/406
+
+http://kwseo.egloos.com/1353894
+
+http://www.eclipse.org/articles/Article-RCP-1/tutorial1.html
+
+http://blog.kfmes.com/204
+
+http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.platform.doc.isv%2Freference%2Fapi%2Forg%2Feclipse%2Fui%2FIPathEditorInput.html
+
+http://okjkillo.tistory.com/152
+
+http://cafe.naver.com/eclipseplugin.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=17&
+
+http://knight76.tistory.com/1407
+
+<<Visual Editor>>
+http://cafe.naver.com/ulsanjava.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=21&
+
+<<SWT>>
+http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/eclipse/documents/SWT
+http://zeroit.tistory.com/archive/200806
+
+<<GWT>>
+http://code.google.com/intl/ko/webtoolkit/download.html
+http://code.google.com/intl/ko/javadevtools/wbpro/installation/updatesite_3.6.html#addnew
+
+Google 웹 툴킷(GWT)은 특히 Eclipse용 Google 플러그인과 함께 사용할 경우, 개발자가 자바스크립트
+Front End 응용프로그램을 기존의 웹 기반 언어를 사용하지 않고 Java 프로그래밍 언어로 신속하게 
+개발하고 관리할 수 있게 하여 전체적인 개발 노력을 단축시키고 엔터프라이즈 급 어플리케이션을 
+신속하게 개발할 수 있게 한다.
+또한 현재 IT의 주요 Trend인 Cloud Computing 기반의 기업용 어플리케이션 개발 실무를 경험하게 
+함으로써, 수강생들의 Career Path 계발에 미래 지향적인 시사점을 부여할 수 있다.
+
+Ajax
+DAO

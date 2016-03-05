@@ -1,0 +1,8 @@
+1
+1
+0
+0
+998400
+998400
+/system/bin/sh: cat: /sys/devices/system/cpu/cpu2/cpufreq/cpuinfo_cur_freq: No such file or directory
+/system/bin/sh: cat: /sys/devices/system/cpu/cpu3/cpufreq/cpuinfo_cur_freq: No such file or directory

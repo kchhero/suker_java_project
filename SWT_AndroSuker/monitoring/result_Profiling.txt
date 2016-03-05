@@ -1,0 +1,15 @@
+
+
+
+User 4%, System 56%, IOW 0%, IRQ 0%
+User 10 + Nice 0 + Sys 129 + Idle 89 + IOW 0 + IRQ 0 + SIRQ 0 = 228
+
+  PID PR CPU% S  #THR     VSS     RSS PCY UID      Name
+  194  1  43% R     2 156136K 135576K unk root     bootchart-colle
+19784  0   4% R     1   4676K   1304K unk root     top
+24192  0   2% S     6  10816K    512K unk root     /sbin/adbd
+19195  0   0% S     1      0K      0K     root     kworker/0:0
+ 1234  1   0% S    38 1120844K  78204K  fg u0_a17   com.android.systemui
+  153  1   0% S     1      0K      0K unk root     cfinteractive
+  281  0   0% S    17  87032K   7480K  fg system   /system/bin/surfaceflinger
+  914  0   0% S   112 1213912K  96260K  fg system   system_server

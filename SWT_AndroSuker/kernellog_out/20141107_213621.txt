@@ -1,0 +1,10 @@
+<6>[  808.905273 / 01-03 00:31:18.329] suker2 CPU[0] Freq 1094400 -> 800000
+<6>[  809.562792 / 01-03 00:31:18.989] suker2 CPU[0] Freq 800000 -> 1094400
+<3>[  810.778753 / 01-03 00:31:20.199] [Touch] touch_release[ ] : <0> x[404] y[383] M:2
+<3>[  811.345662 / 01-03 00:31:20.769] [Touch] 1 finger pressed : <0> x[361] y[389] z[177]
+<3>[  811.629714 / 01-03 00:31:21.049] [Touch] 1 finger pressed : <0> x[331] y[389] z[173]
+<3>[  811.945916 / 01-03 00:31:21.369] [Touch] 1 finger pressed : <0> x[299] y[386] z[143]
+<6>[  812.114550 / 01-03 00:31:21.539] pet_watchdog
+<3>[  813.254318 / 01-03 00:31:22.679] android_pm_qos_update_latency: latency updated to: 2
+<3>[  813.261436 / 01-03 00:31:22.679] android_pm_qos_work: pm_qos_state:WFI, interrupts in last sample:26
+<3>[  813.494923 / 01-03 00:31:22.919] [Touch] 1 finger pressed : <0> x[189] y[402] z[132]

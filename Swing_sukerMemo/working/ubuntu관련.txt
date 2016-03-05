@@ -1,0 +1,36 @@
+1)IP address 변경에 따라 인터넷 미사용을 재신청합니다.
+2)MAC address : 00-25-64-8D-0B-0A
+3)자산번호:KRTF00824318
+
+
+TMUS Flip build server
+
+cd ~
+mkdir bin
+vi ~/.bashrc 아님 gedit ~/.bashrc
+이렇게 패스매크로를 잡아줘야 합니다
+export LANG=C
+export PATH=/home/님들 컴퓨터이름설정한거 쓰세요
+	   (만약 컴퓨터 이름이 desk면 desk)/bin:$PATH:.<<점 있는겁니다 ㅎㅎ
+export JAVA_HOME=/usr/lib/jvm/java-1.5.0-sun-1.5.0.19
+ecport ANDROID_JAVA_HOME=$JAVA_HOME
+쓰시고 저장하고 나오신후
+터미널창에서
+source ~/.bashrc
+라고 쓰심 됩니다.
+repo를 이용하여 안드로이드의 소스를 받아봅시다.
+curl http://android.git.kernel.org/repo >~/bin/repo
+이것을 치시고 ls를 해보시면 repo라는 파일이 보이실 겁니다.
+chmod a+x ~/bin/repo<<권한변경해주시구요
+그리고 님들이 실질적으로 안드로이드를 설치하실 디렉토리를 만들어 주심됩니다
+mkdir android //디렉토리를 root에 만들었구요
+cd android
+~/bin/repo init -u git://android.git.kernel.org/platform/manifest.git
+//repo를 초기화 시켜줍니다.
+이렇게 안드로이드 소스를 죽 받아질것입니다
+이것이 완료된다면
+repo init~~어쩌구 나옵니다 ㅎㅎ
+다음 내용은 내일 쓰지요 졸리네요
+
+http://blog.naver.com/aceofall?Redirect=Log&logNo=110048946320
+http://www.howtogeek.com/howto/ubuntu/add-a-user-on-ubuntu-server/
